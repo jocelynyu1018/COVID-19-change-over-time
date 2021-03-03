@@ -1,0 +1,7971 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -158.7750198,61.3025006 ]
+    },
+    "properties": {
+    "FIELD1":1,
+    "month":"20-03",
+    "stateCode":"AK",
+    "slided":119,
+    "number":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -158.7750198,61.3025006 ]
+    },
+    "properties": {
+    "FIELD1":2,
+    "month":"20-04",
+    "stateCode":"AK",
+    "slided":234,
+    "number":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -158.7750198,61.3025006 ]
+    },
+    "properties": {
+    "FIELD1":3,
+    "month":"20-05",
+    "stateCode":"AK",
+    "slided":99,
+    "number":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -158.7750198,61.3025006 ]
+    },
+    "properties": {
+    "FIELD1":4,
+    "month":"20-06",
+    "stateCode":"AK",
+    "slided":496,
+    "number":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -158.7750198,61.3025006 ]
+    },
+    "properties": {
+    "FIELD1":5,
+    "month":"20-07",
+    "stateCode":"AK",
+    "slided":2084,
+    "number":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -158.7750198,61.3025006 ]
+    },
+    "properties": {
+    "FIELD1":6,
+    "month":"20-08",
+    "stateCode":"AK",
+    "slided":2261,
+    "number":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -158.7750198,61.3025006 ]
+    },
+    "properties": {
+    "FIELD1":7,
+    "month":"20-09",
+    "stateCode":"AK",
+    "slided":2557,
+    "number":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -158.7750198,61.3025006 ]
+    },
+    "properties": {
+    "FIELD1":8,
+    "month":"20-10",
+    "stateCode":"AK",
+    "slided":8446,
+    "number":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -158.7750198,61.3025006 ]
+    },
+    "properties": {
+    "FIELD1":9,
+    "month":"20-11",
+    "stateCode":"AK",
+    "slided":16209,
+    "number":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -158.7750198,61.3025006 ]
+    },
+    "properties": {
+    "FIELD1":10,
+    "month":"20-12",
+    "stateCode":"AK",
+    "slided":14487,
+    "number":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -158.7750198,61.3025006 ]
+    },
+    "properties": {
+    "FIELD1":11,
+    "month":"21-01",
+    "stateCode":"AK",
+    "slided":5548,
+    "number":13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.6807365,32.6010112 ]
+    },
+    "properties": {
+    "FIELD1":12,
+    "month":"20-03",
+    "stateCode":"AL",
+    "slided":1033,
+    "number":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.6807365,32.6010112 ]
+    },
+    "properties": {
+    "FIELD1":13,
+    "month":"20-04",
+    "stateCode":"AL",
+    "slided":6230,
+    "number":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.6807365,32.6010112 ]
+    },
+    "properties": {
+    "FIELD1":14,
+    "month":"20-05",
+    "stateCode":"AL",
+    "slided":10626,
+    "number":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.6807365,32.6010112 ]
+    },
+    "properties": {
+    "FIELD1":15,
+    "month":"20-06",
+    "stateCode":"AL",
+    "slided":19884,
+    "number":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.6807365,32.6010112 ]
+    },
+    "properties": {
+    "FIELD1":16,
+    "month":"20-07",
+    "stateCode":"AL",
+    "slided":47593,
+    "number":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.6807365,32.6010112 ]
+    },
+    "properties": {
+    "FIELD1":17,
+    "month":"20-08",
+    "stateCode":"AL",
+    "slided":31929,
+    "number":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.6807365,32.6010112 ]
+    },
+    "properties": {
+    "FIELD1":18,
+    "month":"20-09",
+    "stateCode":"AL",
+    "slided":38366,
+    "number":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.6807365,32.6010112 ]
+    },
+    "properties": {
+    "FIELD1":19,
+    "month":"20-10",
+    "stateCode":"AL",
+    "slided":37179,
+    "number":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.6807365,32.6010112 ]
+    },
+    "properties": {
+    "FIELD1":20,
+    "month":"20-11",
+    "stateCode":"AL",
+    "slided":58626,
+    "number":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.6807365,32.6010112 ]
+    },
+    "properties": {
+    "FIELD1":21,
+    "month":"20-12",
+    "stateCode":"AL",
+    "slided":110070,
+    "number":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.6807365,32.6010112 ]
+    },
+    "properties": {
+    "FIELD1":22,
+    "month":"21-01",
+    "stateCode":"AL",
+    "slided":68740,
+    "number":13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.1313784,34.7519275 ]
+    },
+    "properties": {
+    "FIELD1":23,
+    "month":"20-03",
+    "stateCode":"AR",
+    "slided":493,
+    "number":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.1313784,34.7519275 ]
+    },
+    "properties": {
+    "FIELD1":24,
+    "month":"20-04",
+    "stateCode":"AR",
+    "slided":2597,
+    "number":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.1313784,34.7519275 ]
+    },
+    "properties": {
+    "FIELD1":25,
+    "month":"20-05",
+    "stateCode":"AR",
+    "slided":4038,
+    "number":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.1313784,34.7519275 ]
+    },
+    "properties": {
+    "FIELD1":26,
+    "month":"20-06",
+    "stateCode":"AR",
+    "slided":13107,
+    "number":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.1313784,34.7519275 ]
+    },
+    "properties": {
+    "FIELD1":27,
+    "month":"20-07",
+    "stateCode":"AR",
+    "slided":20780,
+    "number":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.1313784,34.7519275 ]
+    },
+    "properties": {
+    "FIELD1":28,
+    "month":"20-08",
+    "stateCode":"AR",
+    "slided":19514,
+    "number":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.1313784,34.7519275 ]
+    },
+    "properties": {
+    "FIELD1":29,
+    "month":"20-09",
+    "stateCode":"AR",
+    "slided":21605,
+    "number":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.1313784,34.7519275 ]
+    },
+    "properties": {
+    "FIELD1":30,
+    "month":"20-10",
+    "stateCode":"AR",
+    "slided":27981,
+    "number":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.1313784,34.7519275 ]
+    },
+    "properties": {
+    "FIELD1":31,
+    "month":"20-11",
+    "stateCode":"AR",
+    "slided":45710,
+    "number":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.1313784,34.7519275 ]
+    },
+    "properties": {
+    "FIELD1":32,
+    "month":"20-12",
+    "stateCode":"AR",
+    "slided":67094,
+    "number":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.1313784,34.7519275 ]
+    },
+    "properties": {
+    "FIELD1":33,
+    "month":"21-01",
+    "stateCode":"AR",
+    "slided":50400,
+    "number":13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.930907,34.1682185 ]
+    },
+    "properties": {
+    "FIELD1":34,
+    "month":"20-01",
+    "stateCode":"AZ",
+    "slided":2,
+    "number":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.930907,34.1682185 ]
+    },
+    "properties": {
+    "FIELD1":35,
+    "month":"20-03",
+    "stateCode":"AZ",
+    "slided":1335,
+    "number":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.930907,34.1682185 ]
+    },
+    "properties": {
+    "FIELD1":36,
+    "month":"20-04",
+    "stateCode":"AZ",
+    "slided":6552,
+    "number":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.930907,34.1682185 ]
+    },
+    "properties": {
+    "FIELD1":37,
+    "month":"20-05",
+    "stateCode":"AZ",
+    "slided":12261,
+    "number":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.930907,34.1682185 ]
+    },
+    "properties": {
+    "FIELD1":38,
+    "month":"20-06",
+    "stateCode":"AZ",
+    "slided":60294,
+    "number":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.930907,34.1682185 ]
+    },
+    "properties": {
+    "FIELD1":39,
+    "month":"20-07",
+    "stateCode":"AZ",
+    "slided":93297,
+    "number":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.930907,34.1682185 ]
+    },
+    "properties": {
+    "FIELD1":40,
+    "month":"20-08",
+    "stateCode":"AZ",
+    "slided":28731,
+    "number":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.930907,34.1682185 ]
+    },
+    "properties": {
+    "FIELD1":41,
+    "month":"20-09",
+    "stateCode":"AZ",
+    "slided":16642,
+    "number":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.930907,34.1682185 ]
+    },
+    "properties": {
+    "FIELD1":42,
+    "month":"20-10",
+    "stateCode":"AZ",
+    "slided":26964,
+    "number":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.930907,34.1682185 ]
+    },
+    "properties": {
+    "FIELD1":43,
+    "month":"20-11",
+    "stateCode":"AZ",
+    "slided":85670,
+    "number":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.930907,34.1682185 ]
+    },
+    "properties": {
+    "FIELD1":44,
+    "month":"20-12",
+    "stateCode":"AZ",
+    "slided":193362,
+    "number":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.930907,34.1682185 ]
+    },
+    "properties": {
+    "FIELD1":45,
+    "month":"21-01",
+    "stateCode":"AZ",
+    "slided":166929,
+    "number":13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.2704153,37.2718745 ]
+    },
+    "properties": {
+    "FIELD1":46,
+    "month":"20-01",
+    "stateCode":"CA",
+    "slided":4,
+    "number":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.2704153,37.2718745 ]
+    },
+    "properties": {
+    "FIELD1":47,
+    "month":"20-02",
+    "stateCode":"CA",
+    "slided":15,
+    "number":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.2704153,37.2718745 ]
+    },
+    "properties": {
+    "FIELD1":48,
+    "month":"20-03",
+    "stateCode":"CA",
+    "slided":8358,
+    "number":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.2704153,37.2718745 ]
+    },
+    "properties": {
+    "FIELD1":49,
+    "month":"20-04",
+    "stateCode":"CA",
+    "slided":41722,
+    "number":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.2704153,37.2718745 ]
+    },
+    "properties": {
+    "FIELD1":50,
+    "month":"20-05",
+    "stateCode":"CA",
+    "slided":61937,
+    "number":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.2704153,37.2718745 ]
+    },
+    "properties": {
+    "FIELD1":51,
+    "month":"20-06",
+    "stateCode":"CA",
+    "slided":119273,
+    "number":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.2704153,37.2718745 ]
+    },
+    "properties": {
+    "FIELD1":52,
+    "month":"20-07",
+    "stateCode":"CA",
+    "slided":267460,
+    "number":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.2704153,37.2718745 ]
+    },
+    "properties": {
+    "FIELD1":53,
+    "month":"20-08",
+    "stateCode":"CA",
+    "slided":213988,
+    "number":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.2704153,37.2718745 ]
+    },
+    "properties": {
+    "FIELD1":54,
+    "month":"20-09",
+    "stateCode":"CA",
+    "slided":107940,
+    "number":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.2704153,37.2718745 ]
+    },
+    "properties": {
+    "FIELD1":55,
+    "month":"20-10",
+    "stateCode":"CA",
+    "slided":112889,
+    "number":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.2704153,37.2718745 ]
+    },
+    "properties": {
+    "FIELD1":56,
+    "month":"20-11",
+    "stateCode":"CA",
+    "slided":300760,
+    "number":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.2704153,37.2718745 ]
+    },
+    "properties": {
+    "FIELD1":57,
+    "month":"20-12",
+    "stateCode":"CA",
+    "slided":1070950,
+    "number":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.2704153,37.2718745 ]
+    },
+    "properties": {
+    "FIELD1":58,
+    "month":"21-01",
+    "stateCode":"CA",
+    "slided":776662,
+    "number":13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.550567,38.9979339 ]
+    },
+    "properties": {
+    "FIELD1":59,
+    "month":"20-03",
+    "stateCode":"CO",
+    "slided":2642,
+    "number":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.550567,38.9979339 ]
+    },
+    "properties": {
+    "FIELD1":60,
+    "month":"20-04",
+    "stateCode":"CO",
+    "slided":12495,
+    "number":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.550567,38.9979339 ]
+    },
+    "properties": {
+    "FIELD1":61,
+    "month":"20-05",
+    "stateCode":"CO",
+    "slided":11226,
+    "number":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.550567,38.9979339 ]
+    },
+    "properties": {
+    "FIELD1":62,
+    "month":"20-06",
+    "stateCode":"CO",
+    "slided":6596,
+    "number":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.550567,38.9979339 ]
+    },
+    "properties": {
+    "FIELD1":63,
+    "month":"20-07",
+    "stateCode":"CO",
+    "slided":13992,
+    "number":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.550567,38.9979339 ]
+    },
+    "properties": {
+    "FIELD1":64,
+    "month":"20-08",
+    "stateCode":"CO",
+    "slided":10831,
+    "number":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.550567,38.9979339 ]
+    },
+    "properties": {
+    "FIELD1":65,
+    "month":"20-09",
+    "stateCode":"CO",
+    "slided":13225,
+    "number":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.550567,38.9979339 ]
+    },
+    "properties": {
+    "FIELD1":66,
+    "month":"20-10",
+    "stateCode":"CO",
+    "slided":36609,
+    "number":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.550567,38.9979339 ]
+    },
+    "properties": {
+    "FIELD1":67,
+    "month":"20-11",
+    "stateCode":"CO",
+    "slided":126138,
+    "number":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.550567,38.9979339 ]
+    },
+    "properties": {
+    "FIELD1":68,
+    "month":"20-12",
+    "stateCode":"CO",
+    "slided":100667,
+    "number":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.550567,38.9979339 ]
+    },
+    "properties": {
+    "FIELD1":69,
+    "month":"21-01",
+    "stateCode":"CO",
+    "slided":45364,
+    "number":13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.757507,41.5187835 ]
+    },
+    "properties": {
+    "FIELD1":70,
+    "month":"20-03",
+    "stateCode":"CT",
+    "slided":2959,
+    "number":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.757507,41.5187835 ]
+    },
+    "properties": {
+    "FIELD1":71,
+    "month":"20-04",
+    "stateCode":"CT",
+    "slided":24357,
+    "number":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.757507,41.5187835 ]
+    },
+    "properties": {
+    "FIELD1":72,
+    "month":"20-05",
+    "stateCode":"CT",
+    "slided":14868,
+    "number":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.757507,41.5187835 ]
+    },
+    "properties": {
+    "FIELD1":73,
+    "month":"20-06",
+    "stateCode":"CT",
+    "slided":4250,
+    "number":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.757507,41.5187835 ]
+    },
+    "properties": {
+    "FIELD1":74,
+    "month":"20-07",
+    "stateCode":"CT",
+    "slided":3217,
+    "number":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.757507,41.5187835 ]
+    },
+    "properties": {
+    "FIELD1":75,
+    "month":"20-08",
+    "stateCode":"CT",
+    "slided":3286,
+    "number":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.757507,41.5187835 ]
+    },
+    "properties": {
+    "FIELD1":76,
+    "month":"20-09",
+    "stateCode":"CT",
+    "slided":4719,
+    "number":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.757507,41.5187835 ]
+    },
+    "properties": {
+    "FIELD1":77,
+    "month":"20-10",
+    "stateCode":"CT",
+    "slided":14122,
+    "number":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.757507,41.5187835 ]
+    },
+    "properties": {
+    "FIELD1":78,
+    "month":"20-11",
+    "stateCode":"CT",
+    "slided":45122,
+    "number":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.757507,41.5187835 ]
+    },
+    "properties": {
+    "FIELD1":79,
+    "month":"20-12",
+    "stateCode":"CT",
+    "slided":68174,
+    "number":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.757507,41.5187835 ]
+    },
+    "properties": {
+    "FIELD1":80,
+    "month":"21-01",
+    "stateCode":"CT",
+    "slided":48150,
+    "number":13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.0145666,38.8993487 ]
+    },
+    "properties": {
+    "FIELD1":81,
+    "month":"20-03",
+    "stateCode":"DC",
+    "slided":492,
+    "number":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.0145666,38.8993487 ]
+    },
+    "properties": {
+    "FIELD1":82,
+    "month":"20-04",
+    "stateCode":"DC",
+    "slided":3892,
+    "number":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.0145666,38.8993487 ]
+    },
+    "properties": {
+    "FIELD1":83,
+    "month":"20-05",
+    "stateCode":"DC",
+    "slided":4360,
+    "number":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.0145666,38.8993487 ]
+    },
+    "properties": {
+    "FIELD1":84,
+    "month":"20-06",
+    "stateCode":"DC",
+    "slided":1566,
+    "number":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.0145666,38.8993487 ]
+    },
+    "properties": {
+    "FIELD1":85,
+    "month":"20-07",
+    "stateCode":"DC",
+    "slided":1746,
+    "number":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.0145666,38.8993487 ]
+    },
+    "properties": {
+    "FIELD1":86,
+    "month":"20-08",
+    "stateCode":"DC",
+    "slided":1929,
+    "number":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.0145666,38.8993487 ]
+    },
+    "properties": {
+    "FIELD1":87,
+    "month":"20-09",
+    "stateCode":"DC",
+    "slided":1325,
+    "number":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.0145666,38.8993487 ]
+    },
+    "properties": {
+    "FIELD1":88,
+    "month":"20-10",
+    "stateCode":"DC",
+    "slided":1931,
+    "number":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.0145666,38.8993487 ]
+    },
+    "properties": {
+    "FIELD1":89,
+    "month":"20-11",
+    "stateCode":"DC",
+    "slided":4267,
+    "number":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.0145666,38.8993487 ]
+    },
+    "properties": {
+    "FIELD1":90,
+    "month":"20-12",
+    "stateCode":"DC",
+    "slided":7495,
+    "number":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.0145666,38.8993487 ]
+    },
+    "properties": {
+    "FIELD1":91,
+    "month":"21-01",
+    "stateCode":"DC",
+    "slided":5431,
+    "number":13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.4189206,39.145251 ]
+    },
+    "properties": {
+    "FIELD1":92,
+    "month":"20-03",
+    "stateCode":"DE",
+    "slided":323,
+    "number":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.4189206,39.145251 ]
+    },
+    "properties": {
+    "FIELD1":93,
+    "month":"20-04",
+    "stateCode":"DE",
+    "slided":4415,
+    "number":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.4189206,39.145251 ]
+    },
+    "properties": {
+    "FIELD1":94,
+    "month":"20-05",
+    "stateCode":"DE",
+    "slided":4689,
+    "number":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.4189206,39.145251 ]
+    },
+    "properties": {
+    "FIELD1":95,
+    "month":"20-06",
+    "stateCode":"DE",
+    "slided":2028,
+    "number":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.4189206,39.145251 ]
+    },
+    "properties": {
+    "FIELD1":96,
+    "month":"20-07",
+    "stateCode":"DE",
+    "slided":3163,
+    "number":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.4189206,39.145251 ]
+    },
+    "properties": {
+    "FIELD1":97,
+    "month":"20-08",
+    "stateCode":"DE",
+    "slided":2647,
+    "number":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.4189206,39.145251 ]
+    },
+    "properties": {
+    "FIELD1":98,
+    "month":"20-09",
+    "stateCode":"DE",
+    "slided":3191,
+    "number":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.4189206,39.145251 ]
+    },
+    "properties": {
+    "FIELD1":99,
+    "month":"20-10",
+    "stateCode":"DE",
+    "slided":4552,
+    "number":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.4189206,39.145251 ]
+    },
+    "properties": {
+    "FIELD1":100,
+    "month":"20-11",
+    "stateCode":"DE",
+    "slided":10806,
+    "number":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.4189206,39.145251 ]
+    },
+    "properties": {
+    "FIELD1":101,
+    "month":"20-12",
+    "stateCode":"DE",
+    "slided":21667,
+    "number":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.4189206,39.145251 ]
+    },
+    "properties": {
+    "FIELD1":102,
+    "month":"21-01",
+    "stateCode":"DE",
+    "slided":14413,
+    "number":13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.8330166,27.9757279 ]
+    },
+    "properties": {
+    "FIELD1":103,
+    "month":"20-03",
+    "stateCode":"FL",
+    "slided":6633,
+    "number":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.8330166,27.9757279 ]
+    },
+    "properties": {
+    "FIELD1":104,
+    "month":"20-04",
+    "stateCode":"FL",
+    "slided":27446,
+    "number":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.8330166,27.9757279 ]
+    },
+    "properties": {
+    "FIELD1":105,
+    "month":"20-05",
+    "stateCode":"FL",
+    "slided":22047,
+    "number":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.8330166,27.9757279 ]
+    },
+    "properties": {
+    "FIELD1":106,
+    "month":"20-06",
+    "stateCode":"FL",
+    "slided":98155,
+    "number":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.8330166,27.9757279 ]
+    },
+    "properties": {
+    "FIELD1":107,
+    "month":"20-07",
+    "stateCode":"FL",
+    "slided":314700,
+    "number":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.8330166,27.9757279 ]
+    },
+    "properties": {
+    "FIELD1":108,
+    "month":"20-08",
+    "stateCode":"FL",
+    "slided":156413,
+    "number":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.8330166,27.9757279 ]
+    },
+    "properties": {
+    "FIELD1":109,
+    "month":"20-09",
+    "stateCode":"FL",
+    "slided":80426,
+    "number":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.8330166,27.9757279 ]
+    },
+    "properties": {
+    "FIELD1":110,
+    "month":"20-10",
+    "stateCode":"FL",
+    "slided":96410,
+    "number":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.8330166,27.9757279 ]
+    },
+    "properties": {
+    "FIELD1":111,
+    "month":"20-11",
+    "stateCode":"FL",
+    "slided":197353,
+    "number":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.8330166,27.9757279 ]
+    },
+    "properties": {
+    "FIELD1":112,
+    "month":"20-12",
+    "stateCode":"FL",
+    "slided":320592,
+    "number":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.8330166,27.9757279 ]
+    },
+    "properties": {
+    "FIELD1":113,
+    "month":"21-01",
+    "stateCode":"FL",
+    "slided":280006,
+    "number":13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.2229757,32.6781248 ]
+    },
+    "properties": {
+    "FIELD1":114,
+    "month":"20-03",
+    "stateCode":"GA",
+    "slided":3585,
+    "number":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.2229757,32.6781248 ]
+    },
+    "properties": {
+    "FIELD1":115,
+    "month":"20-04",
+    "stateCode":"GA",
+    "slided":21552,
+    "number":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.2229757,32.6781248 ]
+    },
+    "properties": {
+    "FIELD1":116,
+    "month":"20-05",
+    "stateCode":"GA",
+    "slided":19165,
+    "number":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.2229757,32.6781248 ]
+    },
+    "properties": {
+    "FIELD1":117,
+    "month":"20-06",
+    "stateCode":"GA",
+    "slided":31669,
+    "number":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.2229757,32.6781248 ]
+    },
+    "properties": {
+    "FIELD1":118,
+    "month":"20-07",
+    "stateCode":"GA",
+    "slided":92729,
+    "number":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.2229757,32.6781248 ]
+    },
+    "properties": {
+    "FIELD1":119,
+    "month":"20-08",
+    "stateCode":"GA",
+    "slided":85006,
+    "number":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.2229757,32.6781248 ]
+    },
+    "properties": {
+    "FIELD1":120,
+    "month":"20-09",
+    "stateCode":"GA",
+    "slided":47499,
+    "number":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.2229757,32.6781248 ]
+    },
+    "properties": {
+    "FIELD1":121,
+    "month":"20-10",
+    "stateCode":"GA",
+    "slided":43950,
+    "number":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.2229757,32.6781248 ]
+    },
+    "properties": {
+    "FIELD1":122,
+    "month":"20-11",
+    "stateCode":"GA",
+    "slided":110146,
+    "number":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.2229757,32.6781248 ]
+    },
+    "properties": {
+    "FIELD1":123,
+    "month":"20-12",
+    "stateCode":"GA",
+    "slided":184025,
+    "number":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.2229757,32.6781248 ]
+    },
+    "properties": {
+    "FIELD1":124,
+    "month":"21-01",
+    "stateCode":"GA",
+    "slided":166970,
+    "number":13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.505,20.46 ]
+    },
+    "properties": {
+    "FIELD1":125,
+    "month":"20-03",
+    "stateCode":"HI",
+    "slided":208,
+    "number":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.505,20.46 ]
+    },
+    "properties": {
+    "FIELD1":126,
+    "month":"20-04",
+    "stateCode":"HI",
+    "slided":406,
+    "number":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.505,20.46 ]
+    },
+    "properties": {
+    "FIELD1":127,
+    "month":"20-05",
+    "stateCode":"HI",
+    "slided":42,
+    "number":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.505,20.46 ]
+    },
+    "properties": {
+    "FIELD1":128,
+    "month":"20-06",
+    "stateCode":"HI",
+    "slided":261,
+    "number":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.505,20.46 ]
+    },
+    "properties": {
+    "FIELD1":129,
+    "month":"20-07",
+    "stateCode":"HI",
+    "slided":1163,
+    "number":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.505,20.46 ]
+    },
+    "properties": {
+    "FIELD1":130,
+    "month":"20-08",
+    "stateCode":"HI",
+    "slided":6434,
+    "number":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.505,20.46 ]
+    },
+    "properties": {
+    "FIELD1":131,
+    "month":"20-09",
+    "stateCode":"HI",
+    "slided":3887,
+    "number":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.505,20.46 ]
+    },
+    "properties": {
+    "FIELD1":132,
+    "month":"20-10",
+    "stateCode":"HI",
+    "slided":2628,
+    "number":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.505,20.46 ]
+    },
+    "properties": {
+    "FIELD1":133,
+    "month":"20-11",
+    "stateCode":"HI",
+    "slided":3004,
+    "number":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.505,20.46 ]
+    },
+    "properties": {
+    "FIELD1":134,
+    "month":"20-12",
+    "stateCode":"HI",
+    "slided":3521,
+    "number":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.505,20.46 ]
+    },
+    "properties": {
+    "FIELD1":135,
+    "month":"21-01",
+    "stateCode":"HI",
+    "slided":3049,
+    "number":13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.389798,41.9383166 ]
+    },
+    "properties": {
+    "FIELD1":136,
+    "month":"20-03",
+    "stateCode":"IA",
+    "slided":489,
+    "number":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.389798,41.9383166 ]
+    },
+    "properties": {
+    "FIELD1":137,
+    "month":"20-04",
+    "stateCode":"IA",
+    "slided":6927,
+    "number":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.389798,41.9383166 ]
+    },
+    "properties": {
+    "FIELD1":138,
+    "month":"20-05",
+    "stateCode":"IA",
+    "slided":12214,
+    "number":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.389798,41.9383166 ]
+    },
+    "properties": {
+    "FIELD1":139,
+    "month":"20-06",
+    "stateCode":"IA",
+    "slided":9867,
+    "number":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.389798,41.9383166 ]
+    },
+    "properties": {
+    "FIELD1":140,
+    "month":"20-07",
+    "stateCode":"IA",
+    "slided":15493,
+    "number":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.389798,41.9383166 ]
+    },
+    "properties": {
+    "FIELD1":141,
+    "month":"20-08",
+    "stateCode":"IA",
+    "slided":21132,
+    "number":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.389798,41.9383166 ]
+    },
+    "properties": {
+    "FIELD1":142,
+    "month":"20-09",
+    "stateCode":"IA",
+    "slided":24285,
+    "number":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.389798,41.9383166 ]
+    },
+    "properties": {
+    "FIELD1":143,
+    "month":"20-10",
+    "stateCode":"IA",
+    "slided":38604,
+    "number":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.389798,41.9383166 ]
+    },
+    "properties": {
+    "FIELD1":144,
+    "month":"20-11",
+    "stateCode":"IA",
+    "slided":102768,
+    "number":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.389798,41.9383166 ]
+    },
+    "properties": {
+    "FIELD1":145,
+    "month":"20-12",
+    "stateCode":"IA",
+    "slided":49831,
+    "number":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.389798,41.9383166 ]
+    },
+    "properties": {
+    "FIELD1":146,
+    "month":"21-01",
+    "stateCode":"IA",
+    "slided":27119,
+    "number":13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.1424303,45.4945756 ]
+    },
+    "properties": {
+    "FIELD1":147,
+    "month":"20-03",
+    "stateCode":"ID",
+    "slided":517,
+    "number":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.1424303,45.4945756 ]
+    },
+    "properties": {
+    "FIELD1":148,
+    "month":"20-04",
+    "stateCode":"ID",
+    "slided":1496,
+    "number":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.1424303,45.4945756 ]
+    },
+    "properties": {
+    "FIELD1":149,
+    "month":"20-05",
+    "stateCode":"ID",
+    "slided":858,
+    "number":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.1424303,45.4945756 ]
+    },
+    "properties": {
+    "FIELD1":150,
+    "month":"20-06",
+    "stateCode":"ID",
+    "slided":3229,
+    "number":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.1424303,45.4945756 ]
+    },
+    "properties": {
+    "FIELD1":151,
+    "month":"20-07",
+    "stateCode":"ID",
+    "slided":14473,
+    "number":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.1424303,45.4945756 ]
+    },
+    "properties": {
+    "FIELD1":152,
+    "month":"20-08",
+    "stateCode":"ID",
+    "slided":11605,
+    "number":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.1424303,45.4945756 ]
+    },
+    "properties": {
+    "FIELD1":153,
+    "month":"20-09",
+    "stateCode":"ID",
+    "slided":9937,
+    "number":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.1424303,45.4945756 ]
+    },
+    "properties": {
+    "FIELD1":154,
+    "month":"20-10",
+    "stateCode":"ID",
+    "slided":22369,
+    "number":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.1424303,45.4945756 ]
+    },
+    "properties": {
+    "FIELD1":155,
+    "month":"20-11",
+    "stateCode":"ID",
+    "slided":37723,
+    "number":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.1424303,45.4945756 ]
+    },
+    "properties": {
+    "FIELD1":156,
+    "month":"20-12",
+    "stateCode":"ID",
+    "slided":38347,
+    "number":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.1424303,45.4945756 ]
+    },
+    "properties": {
+    "FIELD1":157,
+    "month":"21-01",
+    "stateCode":"ID",
+    "slided":17105,
+    "number":13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.504139,39.739318 ]
+    },
+    "properties": {
+    "FIELD1":158,
+    "month":"20-01",
+    "stateCode":"IL",
+    "slided":2,
+    "number":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.504139,39.739318 ]
+    },
+    "properties": {
+    "FIELD1":159,
+    "month":"20-03",
+    "stateCode":"IL",
+    "slided":6032,
+    "number":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.504139,39.739318 ]
+    },
+    "properties": {
+    "FIELD1":160,
+    "month":"20-04",
+    "stateCode":"IL",
+    "slided":47050,
+    "number":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.504139,39.739318 ]
+    },
+    "properties": {
+    "FIELD1":161,
+    "month":"20-05",
+    "stateCode":"IL",
+    "slided":66920,
+    "number":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.504139,39.739318 ]
+    },
+    "properties": {
+    "FIELD1":162,
+    "month":"20-06",
+    "stateCode":"IL",
+    "slided":23404,
+    "number":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.504139,39.739318 ]
+    },
+    "properties": {
+    "FIELD1":163,
+    "month":"20-07",
+    "stateCode":"IL",
+    "slided":35518,
+    "number":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.504139,39.739318 ]
+    },
+    "properties": {
+    "FIELD1":164,
+    "month":"20-08",
+    "stateCode":"IL",
+    "slided":56409,
+    "number":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.504139,39.739318 ]
+    },
+    "properties": {
+    "FIELD1":165,
+    "month":"20-09",
+    "stateCode":"IL",
+    "slided":58700,
+    "number":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.504139,39.739318 ]
+    },
+    "properties": {
+    "FIELD1":166,
+    "month":"20-10",
+    "stateCode":"IL",
+    "slided":115082,
+    "number":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.504139,39.739318 ]
+    },
+    "properties": {
+    "FIELD1":167,
+    "month":"20-11",
+    "stateCode":"IL",
+    "slided":321419,
+    "number":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.504139,39.739318 ]
+    },
+    "properties": {
+    "FIELD1":168,
+    "month":"20-12",
+    "stateCode":"IL",
+    "slided":230997,
+    "number":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.504139,39.739318 ]
+    },
+    "properties": {
+    "FIELD1":169,
+    "month":"21-01",
+    "stateCode":"IL",
+    "slided":120281,
+    "number":13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.441277,39.7662195 ]
+    },
+    "properties": {
+    "FIELD1":170,
+    "month":"20-03",
+    "stateCode":"IN",
+    "slided":2254,
+    "number":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.441277,39.7662195 ]
+    },
+    "properties": {
+    "FIELD1":171,
+    "month":"20-04",
+    "stateCode":"IN",
+    "slided":15838,
+    "number":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.441277,39.7662195 ]
+    },
+    "properties": {
+    "FIELD1":172,
+    "month":"20-05",
+    "stateCode":"IN",
+    "slided":16638,
+    "number":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.441277,39.7662195 ]
+    },
+    "properties": {
+    "FIELD1":173,
+    "month":"20-06",
+    "stateCode":"IN",
+    "slided":11358,
+    "number":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.441277,39.7662195 ]
+    },
+    "properties": {
+    "FIELD1":174,
+    "month":"20-07",
+    "stateCode":"IN",
+    "slided":20550,
+    "number":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.441277,39.7662195 ]
+    },
+    "properties": {
+    "FIELD1":175,
+    "month":"20-08",
+    "stateCode":"IN",
+    "slided":28050,
+    "number":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.441277,39.7662195 ]
+    },
+    "properties": {
+    "FIELD1":176,
+    "month":"20-09",
+    "stateCode":"IN",
+    "slided":26369,
+    "number":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.441277,39.7662195 ]
+    },
+    "properties": {
+    "FIELD1":177,
+    "month":"20-10",
+    "stateCode":"IN",
+    "slided":58564,
+    "number":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.441277,39.7662195 ]
+    },
+    "properties": {
+    "FIELD1":178,
+    "month":"20-11",
+    "stateCode":"IN",
+    "slided":161178,
+    "number":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.441277,39.7662195 ]
+    },
+    "properties": {
+    "FIELD1":179,
+    "month":"20-12",
+    "stateCode":"IN",
+    "slided":171375,
+    "number":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.441277,39.7662195 ]
+    },
+    "properties": {
+    "FIELD1":180,
+    "month":"21-01",
+    "stateCode":"IN",
+    "slided":87069,
+    "number":13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.3200779,38.4987789 ]
+    },
+    "properties": {
+    "FIELD1":181,
+    "month":"20-03",
+    "stateCode":"KS",
+    "slided":444,
+    "number":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.3200779,38.4987789 ]
+    },
+    "properties": {
+    "FIELD1":182,
+    "month":"20-04",
+    "stateCode":"KS",
+    "slided":3881,
+    "number":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.3200779,38.4987789 ]
+    },
+    "properties": {
+    "FIELD1":183,
+    "month":"20-05",
+    "stateCode":"KS",
+    "slided":5496,
+    "number":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.3200779,38.4987789 ]
+    },
+    "properties": {
+    "FIELD1":184,
+    "month":"20-06",
+    "stateCode":"KS",
+    "slided":4769,
+    "number":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.3200779,38.4987789 ]
+    },
+    "properties": {
+    "FIELD1":185,
+    "month":"20-07",
+    "stateCode":"KS",
+    "slided":12843,
+    "number":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.3200779,38.4987789 ]
+    },
+    "properties": {
+    "FIELD1":186,
+    "month":"20-08",
+    "stateCode":"KS",
+    "slided":16145,
+    "number":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.3200779,38.4987789 ]
+    },
+    "properties": {
+    "FIELD1":187,
+    "month":"20-09",
+    "stateCode":"KS",
+    "slided":16419,
+    "number":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.3200779,38.4987789 ]
+    },
+    "properties": {
+    "FIELD1":188,
+    "month":"20-10",
+    "stateCode":"KS",
+    "slided":23791,
+    "number":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.3200779,38.4987789 ]
+    },
+    "properties": {
+    "FIELD1":189,
+    "month":"20-11",
+    "stateCode":"KS",
+    "slided":77054,
+    "number":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.3200779,38.4987789 ]
+    },
+    "properties": {
+    "FIELD1":190,
+    "month":"20-12",
+    "stateCode":"KS",
+    "slided":66376,
+    "number":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.3200779,38.4987789 ]
+    },
+    "properties": {
+    "FIELD1":191,
+    "month":"21-01",
+    "stateCode":"KS",
+    "slided":40541,
+    "number":13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.7682399,37.8222935 ]
+    },
+    "properties": {
+    "FIELD1":192,
+    "month":"20-03",
+    "stateCode":"KY",
+    "slided":538,
+    "number":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.7682399,37.8222935 ]
+    },
+    "properties": {
+    "FIELD1":193,
+    "month":"20-04",
+    "stateCode":"KY",
+    "slided":4258,
+    "number":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.7682399,37.8222935 ]
+    },
+    "properties": {
+    "FIELD1":194,
+    "month":"20-05",
+    "stateCode":"KY",
+    "slided":5280,
+    "number":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.7682399,37.8222935 ]
+    },
+    "properties": {
+    "FIELD1":195,
+    "month":"20-06",
+    "stateCode":"KY",
+    "slided":5916,
+    "number":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.7682399,37.8222935 ]
+    },
+    "properties": {
+    "FIELD1":196,
+    "month":"20-07",
+    "stateCode":"KY",
+    "slided":14340,
+    "number":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.7682399,37.8222935 ]
+    },
+    "properties": {
+    "FIELD1":197,
+    "month":"20-08",
+    "stateCode":"KY",
+    "slided":18858,
+    "number":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.7682399,37.8222935 ]
+    },
+    "properties": {
+    "FIELD1":198,
+    "month":"20-09",
+    "stateCode":"KY",
+    "slided":20386,
+    "number":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.7682399,37.8222935 ]
+    },
+    "properties": {
+    "FIELD1":199,
+    "month":"20-10",
+    "stateCode":"KY",
+    "slided":37815,
+    "number":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.7682399,37.8222935 ]
+    },
+    "properties": {
+    "FIELD1":200,
+    "month":"20-11",
+    "stateCode":"KY",
+    "slided":73841,
+    "number":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.7682399,37.8222935 ]
+    },
+    "properties": {
+    "FIELD1":201,
+    "month":"20-12",
+    "stateCode":"KY",
+    "slided":86619,
+    "number":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.7682399,37.8222935 ]
+    },
+    "properties": {
+    "FIELD1":202,
+    "month":"21-01",
+    "stateCode":"KY",
+    "slided":67631,
+    "number":13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.4299097,30.9733766 ]
+    },
+    "properties": {
+    "FIELD1":203,
+    "month":"20-03",
+    "stateCode":"LA",
+    "slided":923,
+    "number":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.4299097,30.9733766 ]
+    },
+    "properties": {
+    "FIELD1":204,
+    "month":"20-04",
+    "stateCode":"LA",
+    "slided":1454,
+    "number":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.4299097,30.9733766 ]
+    },
+    "properties": {
+    "FIELD1":205,
+    "month":"20-05",
+    "stateCode":"LA",
+    "slided":1905,
+    "number":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.4299097,30.9733766 ]
+    },
+    "properties": {
+    "FIELD1":206,
+    "month":"20-06",
+    "stateCode":"LA",
+    "slided":3352,
+    "number":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.4299097,30.9733766 ]
+    },
+    "properties": {
+    "FIELD1":207,
+    "month":"20-07",
+    "stateCode":"LA",
+    "slided":8107,
+    "number":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.4299097,30.9733766 ]
+    },
+    "properties": {
+    "FIELD1":208,
+    "month":"20-08",
+    "stateCode":"LA",
+    "slided":6499,
+    "number":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.4299097,30.9733766 ]
+    },
+    "properties": {
+    "FIELD1":209,
+    "month":"20-09",
+    "stateCode":"LA",
+    "slided":3979,
+    "number":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.4299097,30.9733766 ]
+    },
+    "properties": {
+    "FIELD1":210,
+    "month":"20-10",
+    "stateCode":"LA",
+    "slided":3304,
+    "number":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.4299097,30.9733766 ]
+    },
+    "properties": {
+    "FIELD1":211,
+    "month":"20-11",
+    "stateCode":"LA",
+    "slided":9219,
+    "number":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.4299097,30.9733766 ]
+    },
+    "properties": {
+    "FIELD1":212,
+    "month":"20-12",
+    "stateCode":"LA",
+    "slided":11096,
+    "number":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.4299097,30.9733766 ]
+    },
+    "properties": {
+    "FIELD1":213,
+    "month":"21-01",
+    "stateCode":"LA",
+    "slided":7906,
+    "number":13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.718067,42.0629398 ]
+    },
+    "properties": {
+    "FIELD1":214,
+    "month":"20-02",
+    "stateCode":"MA",
+    "slided":6,
+    "number":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.718067,42.0629398 ]
+    },
+    "properties": {
+    "FIELD1":215,
+    "month":"20-03",
+    "stateCode":"MA",
+    "slided":6616,
+    "number":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.718067,42.0629398 ]
+    },
+    "properties": {
+    "FIELD1":216,
+    "month":"20-04",
+    "stateCode":"MA",
+    "slided":55077,
+    "number":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.718067,42.0629398 ]
+    },
+    "properties": {
+    "FIELD1":217,
+    "month":"20-05",
+    "stateCode":"MA",
+    "slided":36171,
+    "number":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.718067,42.0629398 ]
+    },
+    "properties": {
+    "FIELD1":218,
+    "month":"20-06",
+    "stateCode":"MA",
+    "slided":10827,
+    "number":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.718067,42.0629398 ]
+    },
+    "properties": {
+    "FIELD1":219,
+    "month":"20-07",
+    "stateCode":"MA",
+    "slided":8566,
+    "number":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.718067,42.0629398 ]
+    },
+    "properties": {
+    "FIELD1":220,
+    "month":"20-08",
+    "stateCode":"MA",
+    "slided":7630,
+    "number":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.718067,42.0629398 ]
+    },
+    "properties": {
+    "FIELD1":221,
+    "month":"20-09",
+    "stateCode":"MA",
+    "slided":11225,
+    "number":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.718067,42.0629398 ]
+    },
+    "properties": {
+    "FIELD1":222,
+    "month":"20-10",
+    "stateCode":"MA",
+    "slided":24215,
+    "number":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.718067,42.0629398 ]
+    },
+    "properties": {
+    "FIELD1":223,
+    "month":"20-11",
+    "stateCode":"MA",
+    "slided":65648,
+    "number":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.718067,42.0629398 ]
+    },
+    "properties": {
+    "FIELD1":224,
+    "month":"20-12",
+    "stateCode":"MA",
+    "slided":136511,
+    "number":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.718067,42.0629398 ]
+    },
+    "properties": {
+    "FIELD1":225,
+    "month":"21-01",
+    "stateCode":"MA",
+    "slided":100988,
+    "number":13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.2684162,38.8063524 ]
+    },
+    "properties": {
+    "FIELD1":226,
+    "month":"20-03",
+    "stateCode":"MD",
+    "slided":1772,
+    "number":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.2684162,38.8063524 ]
+    },
+    "properties": {
+    "FIELD1":227,
+    "month":"20-04",
+    "stateCode":"MD",
+    "slided":20496,
+    "number":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.2684162,38.8063524 ]
+    },
+    "properties": {
+    "FIELD1":228,
+    "month":"20-05",
+    "stateCode":"MD",
+    "slided":30444,
+    "number":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.2684162,38.8063524 ]
+    },
+    "properties": {
+    "FIELD1":229,
+    "month":"20-06",
+    "stateCode":"MD",
+    "slided":15209,
+    "number":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.2684162,38.8063524 ]
+    },
+    "properties": {
+    "FIELD1":230,
+    "month":"20-07",
+    "stateCode":"MD",
+    "slided":20715,
+    "number":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.2684162,38.8063524 ]
+    },
+    "properties": {
+    "FIELD1":231,
+    "month":"20-08",
+    "stateCode":"MD",
+    "slided":20053,
+    "number":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.2684162,38.8063524 ]
+    },
+    "properties": {
+    "FIELD1":232,
+    "month":"20-09",
+    "stateCode":"MD",
+    "slided":16892,
+    "number":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.2684162,38.8063524 ]
+    },
+    "properties": {
+    "FIELD1":233,
+    "month":"20-10",
+    "stateCode":"MD",
+    "slided":20219,
+    "number":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.2684162,38.8063524 ]
+    },
+    "properties": {
+    "FIELD1":234,
+    "month":"20-11",
+    "stateCode":"MD",
+    "slided":53681,
+    "number":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.2684162,38.8063524 ]
+    },
+    "properties": {
+    "FIELD1":235,
+    "month":"20-12",
+    "stateCode":"MD",
+    "slided":78184,
+    "number":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.2684162,38.8063524 ]
+    },
+    "properties": {
+    "FIELD1":236,
+    "month":"21-01",
+    "stateCode":"MD",
+    "slided":55467,
+    "number":13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -69.0148656,45.2185133 ]
+    },
+    "properties": {
+    "FIELD1":237,
+    "month":"20-03",
+    "stateCode":"ME",
+    "slided":292,
+    "number":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -69.0148656,45.2185133 ]
+    },
+    "properties": {
+    "FIELD1":238,
+    "month":"20-04",
+    "stateCode":"ME",
+    "slided":797,
+    "number":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -69.0148656,45.2185133 ]
+    },
+    "properties": {
+    "FIELD1":239,
+    "month":"20-05",
+    "stateCode":"ME",
+    "slided":1216,
+    "number":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -69.0148656,45.2185133 ]
+    },
+    "properties": {
+    "FIELD1":240,
+    "month":"20-06",
+    "stateCode":"ME",
+    "slided":963,
+    "number":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -69.0148656,45.2185133 ]
+    },
+    "properties": {
+    "FIELD1":241,
+    "month":"20-07",
+    "stateCode":"ME",
+    "slided":681,
+    "number":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -69.0148656,45.2185133 ]
+    },
+    "properties": {
+    "FIELD1":242,
+    "month":"20-08",
+    "stateCode":"ME",
+    "slided":638,
+    "number":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -69.0148656,45.2185133 ]
+    },
+    "properties": {
+    "FIELD1":243,
+    "month":"20-09",
+    "stateCode":"ME",
+    "slided":874,
+    "number":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -69.0148656,45.2185133 ]
+    },
+    "properties": {
+    "FIELD1":244,
+    "month":"20-10",
+    "stateCode":"ME",
+    "slided":1288,
+    "number":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -69.0148656,45.2185133 ]
+    },
+    "properties": {
+    "FIELD1":245,
+    "month":"20-11",
+    "stateCode":"ME",
+    "slided":5148,
+    "number":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -69.0148656,45.2185133 ]
+    },
+    "properties": {
+    "FIELD1":246,
+    "month":"20-12",
+    "stateCode":"ME",
+    "slided":12213,
+    "number":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -69.0148656,45.2185133 ]
+    },
+    "properties": {
+    "FIELD1":247,
+    "month":"21-01",
+    "stateCode":"ME",
+    "slided":10878,
+    "number":13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.4158049,44.9435598 ]
+    },
+    "properties": {
+    "FIELD1":248,
+    "month":"20-03",
+    "stateCode":"MI",
+    "slided":8051,
+    "number":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.4158049,44.9435598 ]
+    },
+    "properties": {
+    "FIELD1":249,
+    "month":"20-04",
+    "stateCode":"MI",
+    "slided":31745,
+    "number":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.4158049,44.9435598 ]
+    },
+    "properties": {
+    "FIELD1":250,
+    "month":"20-05",
+    "stateCode":"MI",
+    "slided":13657,
+    "number":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.4158049,44.9435598 ]
+    },
+    "properties": {
+    "FIELD1":251,
+    "month":"20-06",
+    "stateCode":"MI",
+    "slided":13743,
+    "number":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.4158049,44.9435598 ]
+    },
+    "properties": {
+    "FIELD1":252,
+    "month":"20-07",
+    "stateCode":"MI",
+    "slided":19721,
+    "number":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.4158049,44.9435598 ]
+    },
+    "properties": {
+    "FIELD1":253,
+    "month":"20-08",
+    "stateCode":"MI",
+    "slided":21892,
+    "number":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.4158049,44.9435598 ]
+    },
+    "properties": {
+    "FIELD1":254,
+    "month":"20-09",
+    "stateCode":"MI",
+    "slided":24676,
+    "number":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.4158049,44.9435598 ]
+    },
+    "properties": {
+    "FIELD1":255,
+    "month":"20-10",
+    "stateCode":"MI",
+    "slided":57444,
+    "number":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.4158049,44.9435598 ]
+    },
+    "properties": {
+    "FIELD1":256,
+    "month":"20-11",
+    "stateCode":"MI",
+    "slided":186273,
+    "number":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.4158049,44.9435598 ]
+    },
+    "properties": {
+    "FIELD1":257,
+    "month":"20-12",
+    "stateCode":"MI",
+    "slided":131435,
+    "number":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.4158049,44.9435598 ]
+    },
+    "properties": {
+    "FIELD1":258,
+    "month":"21-01",
+    "stateCode":"MI",
+    "slided":58324,
+    "number":13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.3655146,46.4418595 ]
+    },
+    "properties": {
+    "FIELD1":259,
+    "month":"20-03",
+    "stateCode":"MN",
+    "slided":641,
+    "number":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.3655146,46.4418595 ]
+    },
+    "properties": {
+    "FIELD1":260,
+    "month":"20-04",
+    "stateCode":"MN",
+    "slided":4571,
+    "number":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.3655146,46.4418595 ]
+    },
+    "properties": {
+    "FIELD1":261,
+    "month":"20-05",
+    "stateCode":"MN",
+    "slided":19341,
+    "number":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.3655146,46.4418595 ]
+    },
+    "properties": {
+    "FIELD1":262,
+    "month":"20-06",
+    "stateCode":"MN",
+    "slided":11757,
+    "number":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.3655146,46.4418595 ]
+    },
+    "properties": {
+    "FIELD1":263,
+    "month":"20-07",
+    "stateCode":"MN",
+    "slided":18004,
+    "number":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.3655146,46.4418595 ]
+    },
+    "properties": {
+    "FIELD1":264,
+    "month":"20-08",
+    "stateCode":"MN",
+    "slided":21147,
+    "number":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.3655146,46.4418595 ]
+    },
+    "properties": {
+    "FIELD1":265,
+    "month":"20-09",
+    "stateCode":"MN",
+    "slided":23771,
+    "number":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.3655146,46.4418595 ]
+    },
+    "properties": {
+    "FIELD1":266,
+    "month":"20-10",
+    "stateCode":"MN",
+    "slided":48441,
+    "number":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.3655146,46.4418595 ]
+    },
+    "properties": {
+    "FIELD1":267,
+    "month":"20-11",
+    "stateCode":"MN",
+    "slided":167199,
+    "number":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.3655146,46.4418595 ]
+    },
+    "properties": {
+    "FIELD1":268,
+    "month":"20-12",
+    "stateCode":"MN",
+    "slided":97998,
+    "number":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.3655146,46.4418595 ]
+    },
+    "properties": {
+    "FIELD1":269,
+    "month":"21-01",
+    "stateCode":"MN",
+    "slided":34654,
+    "number":13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.437099,38.3046615 ]
+    },
+    "properties": {
+    "FIELD1":270,
+    "month":"20-03",
+    "stateCode":"MO",
+    "slided":1272,
+    "number":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.437099,38.3046615 ]
+    },
+    "properties": {
+    "FIELD1":271,
+    "month":"20-04",
+    "stateCode":"MO",
+    "slided":6166,
+    "number":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.437099,38.3046615 ]
+    },
+    "properties": {
+    "FIELD1":272,
+    "month":"20-05",
+    "stateCode":"MO",
+    "slided":5074,
+    "number":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.437099,38.3046615 ]
+    },
+    "properties": {
+    "FIELD1":273,
+    "month":"20-06",
+    "stateCode":"MO",
+    "slided":7122,
+    "number":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.437099,38.3046615 ]
+    },
+    "properties": {
+    "FIELD1":274,
+    "month":"20-07",
+    "stateCode":"MO",
+    "slided":25153,
+    "number":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.437099,38.3046615 ]
+    },
+    "properties": {
+    "FIELD1":275,
+    "month":"20-08",
+    "stateCode":"MO",
+    "slided":32406,
+    "number":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.437099,38.3046615 ]
+    },
+    "properties": {
+    "FIELD1":276,
+    "month":"20-09",
+    "stateCode":"MO",
+    "slided":40248,
+    "number":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.437099,38.3046615 ]
+    },
+    "properties": {
+    "FIELD1":277,
+    "month":"20-10",
+    "stateCode":"MO",
+    "slided":54630,
+    "number":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.437099,38.3046615 ]
+    },
+    "properties": {
+    "FIELD1":278,
+    "month":"20-11",
+    "stateCode":"MO",
+    "slided":112417,
+    "number":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.437099,38.3046615 ]
+    },
+    "properties": {
+    "FIELD1":279,
+    "month":"20-12",
+    "stateCode":"MO",
+    "slided":90727,
+    "number":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.437099,38.3046615 ]
+    },
+    "properties": {
+    "FIELD1":280,
+    "month":"21-01",
+    "stateCode":"MO",
+    "slided":46608,
+    "number":13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.8772196,32.5851062 ]
+    },
+    "properties": {
+    "FIELD1":281,
+    "month":"20-03",
+    "stateCode":"MS",
+    "slided":967,
+    "number":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.8772196,32.5851062 ]
+    },
+    "properties": {
+    "FIELD1":282,
+    "month":"20-04",
+    "stateCode":"MS",
+    "slided":5964,
+    "number":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.8772196,32.5851062 ]
+    },
+    "properties": {
+    "FIELD1":283,
+    "month":"20-05",
+    "stateCode":"MS",
+    "slided":8699,
+    "number":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.8772196,32.5851062 ]
+    },
+    "properties": {
+    "FIELD1":284,
+    "month":"20-06",
+    "stateCode":"MS",
+    "slided":12038,
+    "number":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.8772196,32.5851062 ]
+    },
+    "properties": {
+    "FIELD1":285,
+    "month":"20-07",
+    "stateCode":"MS",
+    "slided":31067,
+    "number":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.8772196,32.5851062 ]
+    },
+    "properties": {
+    "FIELD1":286,
+    "month":"20-08",
+    "stateCode":"MS",
+    "slided":25243,
+    "number":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.8772196,32.5851062 ]
+    },
+    "properties": {
+    "FIELD1":287,
+    "month":"20-09",
+    "stateCode":"MS",
+    "slided":15233,
+    "number":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.8772196,32.5851062 ]
+    },
+    "properties": {
+    "FIELD1":288,
+    "month":"20-10",
+    "stateCode":"MS",
+    "slided":21478,
+    "number":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.8772196,32.5851062 ]
+    },
+    "properties": {
+    "FIELD1":289,
+    "month":"20-11",
+    "stateCode":"MS",
+    "slided":33608,
+    "number":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.8772196,32.5851062 ]
+    },
+    "properties": {
+    "FIELD1":290,
+    "month":"20-12",
+    "stateCode":"MS",
+    "slided":62005,
+    "number":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.8772196,32.5851062 ]
+    },
+    "properties": {
+    "FIELD1":291,
+    "month":"21-01",
+    "stateCode":"MS",
+    "slided":41557,
+    "number":13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.044783,46.6797995 ]
+    },
+    "properties": {
+    "FIELD1":292,
+    "month":"20-03",
+    "stateCode":"MT",
+    "slided":191,
+    "number":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.044783,46.6797995 ]
+    },
+    "properties": {
+    "FIELD1":293,
+    "month":"20-04",
+    "stateCode":"MT",
+    "slided":268,
+    "number":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.044783,46.6797995 ]
+    },
+    "properties": {
+    "FIELD1":294,
+    "month":"20-05",
+    "stateCode":"MT",
+    "slided":59,
+    "number":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.044783,46.6797995 ]
+    },
+    "properties": {
+    "FIELD1":295,
+    "month":"20-06",
+    "stateCode":"MT",
+    "slided":477,
+    "number":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.044783,46.6797995 ]
+    },
+    "properties": {
+    "FIELD1":296,
+    "month":"20-07",
+    "stateCode":"MT",
+    "slided":2967,
+    "number":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.044783,46.6797995 ]
+    },
+    "properties": {
+    "FIELD1":297,
+    "month":"20-08",
+    "stateCode":"MT",
+    "slided":3572,
+    "number":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.044783,46.6797995 ]
+    },
+    "properties": {
+    "FIELD1":298,
+    "month":"20-09",
+    "stateCode":"MT",
+    "slided":5719,
+    "number":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.044783,46.6797995 ]
+    },
+    "properties": {
+    "FIELD1":299,
+    "month":"20-10",
+    "stateCode":"MT",
+    "slided":19530,
+    "number":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.044783,46.6797995 ]
+    },
+    "properties": {
+    "FIELD1":300,
+    "month":"20-11",
+    "stateCode":"MT",
+    "slided":30190,
+    "number":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.044783,46.6797995 ]
+    },
+    "properties": {
+    "FIELD1":301,
+    "month":"20-12",
+    "stateCode":"MT",
+    "slided":19207,
+    "number":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.044783,46.6797995 ]
+    },
+    "properties": {
+    "FIELD1":302,
+    "month":"21-01",
+    "stateCode":"MT",
+    "slided":9061,
+    "number":13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.8912675,35.2145629 ]
+    },
+    "properties": {
+    "FIELD1":303,
+    "month":"20-03",
+    "stateCode":"NC",
+    "slided":1579,
+    "number":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.8912675,35.2145629 ]
+    },
+    "properties": {
+    "FIELD1":304,
+    "month":"20-04",
+    "stateCode":"NC",
+    "slided":9336,
+    "number":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.8912675,35.2145629 ]
+    },
+    "properties": {
+    "FIELD1":305,
+    "month":"20-05",
+    "stateCode":"NC",
+    "slided":17965,
+    "number":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.8912675,35.2145629 ]
+    },
+    "properties": {
+    "FIELD1":306,
+    "month":"20-06",
+    "stateCode":"NC",
+    "slided":36830,
+    "number":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.8912675,35.2145629 ]
+    },
+    "properties": {
+    "FIELD1":307,
+    "month":"20-07",
+    "stateCode":"NC",
+    "slided":56875,
+    "number":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.8912675,35.2145629 ]
+    },
+    "properties": {
+    "FIELD1":308,
+    "month":"20-08",
+    "stateCode":"NC",
+    "slided":45997,
+    "number":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.8912675,35.2145629 ]
+    },
+    "properties": {
+    "FIELD1":309,
+    "month":"20-09",
+    "stateCode":"NC",
+    "slided":43901,
+    "number":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.8912675,35.2145629 ]
+    },
+    "properties": {
+    "FIELD1":310,
+    "month":"20-10",
+    "stateCode":"NC",
+    "slided":62513,
+    "number":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.8912675,35.2145629 ]
+    },
+    "properties": {
+    "FIELD1":311,
+    "month":"20-11",
+    "stateCode":"NC",
+    "slided":91219,
+    "number":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.8912675,35.2145629 ]
+    },
+    "properties": {
+    "FIELD1":312,
+    "month":"20-12",
+    "stateCode":"NC",
+    "slided":175038,
+    "number":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.8912675,35.2145629 ]
+    },
+    "properties": {
+    "FIELD1":313,
+    "month":"21-01",
+    "stateCode":"NC",
+    "slided":150194,
+    "number":13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.3022655,47.4678819 ]
+    },
+    "properties": {
+    "FIELD1":314,
+    "month":"20-03",
+    "stateCode":"ND",
+    "slided":123,
+    "number":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.3022655,47.4678819 ]
+    },
+    "properties": {
+    "FIELD1":315,
+    "month":"20-04",
+    "stateCode":"ND",
+    "slided":943,
+    "number":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.3022655,47.4678819 ]
+    },
+    "properties": {
+    "FIELD1":316,
+    "month":"20-05",
+    "stateCode":"ND",
+    "slided":1577,
+    "number":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.3022655,47.4678819 ]
+    },
+    "properties": {
+    "FIELD1":317,
+    "month":"20-06",
+    "stateCode":"ND",
+    "slided":1006,
+    "number":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.3022655,47.4678819 ]
+    },
+    "properties": {
+    "FIELD1":318,
+    "month":"20-07",
+    "stateCode":"ND",
+    "slided":2888,
+    "number":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.3022655,47.4678819 ]
+    },
+    "properties": {
+    "FIELD1":319,
+    "month":"20-08",
+    "stateCode":"ND",
+    "slided":5447,
+    "number":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.3022655,47.4678819 ]
+    },
+    "properties": {
+    "FIELD1":320,
+    "month":"20-09",
+    "stateCode":"ND",
+    "slided":10056,
+    "number":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.3022655,47.4678819 ]
+    },
+    "properties": {
+    "FIELD1":321,
+    "month":"20-10",
+    "stateCode":"ND",
+    "slided":21842,
+    "number":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.3022655,47.4678819 ]
+    },
+    "properties": {
+    "FIELD1":322,
+    "month":"20-11",
+    "stateCode":"ND",
+    "slided":35484,
+    "number":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.3022655,47.4678819 ]
+    },
+    "properties": {
+    "FIELD1":323,
+    "month":"20-12",
+    "stateCode":"ND",
+    "slided":13262,
+    "number":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.3022655,47.4678819 ]
+    },
+    "properties": {
+    "FIELD1":324,
+    "month":"21-01",
+    "stateCode":"ND",
+    "slided":3907,
+    "number":13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.680902,41.5008195 ]
+    },
+    "properties": {
+    "FIELD1":325,
+    "month":"20-03",
+    "stateCode":"NE",
+    "slided":186,
+    "number":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.680902,41.5008195 ]
+    },
+    "properties": {
+    "FIELD1":326,
+    "month":"20-04",
+    "stateCode":"NE",
+    "slided":4255,
+    "number":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.680902,41.5008195 ]
+    },
+    "properties": {
+    "FIELD1":327,
+    "month":"20-05",
+    "stateCode":"NE",
+    "slided":9569,
+    "number":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.680902,41.5008195 ]
+    },
+    "properties": {
+    "FIELD1":328,
+    "month":"20-06",
+    "stateCode":"NE",
+    "slided":5143,
+    "number":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.680902,41.5008195 ]
+    },
+    "properties": {
+    "FIELD1":329,
+    "month":"20-07",
+    "stateCode":"NE",
+    "slided":6997,
+    "number":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.680902,41.5008195 ]
+    },
+    "properties": {
+    "FIELD1":330,
+    "month":"20-08",
+    "stateCode":"NE",
+    "slided":9142,
+    "number":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.680902,41.5008195 ]
+    },
+    "properties": {
+    "FIELD1":331,
+    "month":"20-09",
+    "stateCode":"NE",
+    "slided":11199,
+    "number":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.680902,41.5008195 ]
+    },
+    "properties": {
+    "FIELD1":332,
+    "month":"20-10",
+    "stateCode":"NE",
+    "slided":24632,
+    "number":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.680902,41.5008195 ]
+    },
+    "properties": {
+    "FIELD1":333,
+    "month":"20-11",
+    "stateCode":"NE",
+    "slided":57847,
+    "number":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.680902,41.5008195 ]
+    },
+    "properties": {
+    "FIELD1":334,
+    "month":"20-12",
+    "stateCode":"NE",
+    "slided":37305,
+    "number":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.680902,41.5008195 ]
+    },
+    "properties": {
+    "FIELD1":335,
+    "month":"21-01",
+    "stateCode":"NE",
+    "slided":17933,
+    "number":13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.5799231,44.0012306 ]
+    },
+    "properties": {
+    "FIELD1":336,
+    "month":"20-03",
+    "stateCode":"NH",
+    "slided":329,
+    "number":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.5799231,44.0012306 ]
+    },
+    "properties": {
+    "FIELD1":337,
+    "month":"20-04",
+    "stateCode":"NH",
+    "slided":1987,
+    "number":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.5799231,44.0012306 ]
+    },
+    "properties": {
+    "FIELD1":338,
+    "month":"20-05",
+    "stateCode":"NH",
+    "slided":2416,
+    "number":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.5799231,44.0012306 ]
+    },
+    "properties": {
+    "FIELD1":339,
+    "month":"20-06",
+    "stateCode":"NH",
+    "slided":1188,
+    "number":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.5799231,44.0012306 ]
+    },
+    "properties": {
+    "FIELD1":340,
+    "month":"20-07",
+    "stateCode":"NH",
+    "slided":800,
+    "number":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.5799231,44.0012306 ]
+    },
+    "properties": {
+    "FIELD1":341,
+    "month":"20-08",
+    "stateCode":"NH",
+    "slided":699,
+    "number":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.5799231,44.0012306 ]
+    },
+    "properties": {
+    "FIELD1":342,
+    "month":"20-09",
+    "stateCode":"NH",
+    "slided":1057,
+    "number":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.5799231,44.0012306 ]
+    },
+    "properties": {
+    "FIELD1":343,
+    "month":"20-10",
+    "stateCode":"NH",
+    "slided":2698,
+    "number":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.5799231,44.0012306 ]
+    },
+    "properties": {
+    "FIELD1":344,
+    "month":"20-11",
+    "stateCode":"NH",
+    "slided":9700,
+    "number":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.5799231,44.0012306 ]
+    },
+    "properties": {
+    "FIELD1":345,
+    "month":"20-12",
+    "stateCode":"NH",
+    "slided":22271,
+    "number":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.5799231,44.0012306 ]
+    },
+    "properties": {
+    "FIELD1":346,
+    "month":"21-01",
+    "stateCode":"NH",
+    "slided":15196,
+    "number":13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.7311156,40.1430058 ]
+    },
+    "properties": {
+    "FIELD1":347,
+    "month":"20-03",
+    "stateCode":"NJ",
+    "slided":15774,
+    "number":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.7311156,40.1430058 ]
+    },
+    "properties": {
+    "FIELD1":348,
+    "month":"20-04",
+    "stateCode":"NJ",
+    "slided":102388,
+    "number":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.7311156,40.1430058 ]
+    },
+    "properties": {
+    "FIELD1":349,
+    "month":"20-05",
+    "stateCode":"NJ",
+    "slided":42476,
+    "number":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.7311156,40.1430058 ]
+    },
+    "properties": {
+    "FIELD1":350,
+    "month":"20-06",
+    "stateCode":"NJ",
+    "slided":12302,
+    "number":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.7311156,40.1430058 ]
+    },
+    "properties": {
+    "FIELD1":351,
+    "month":"20-07",
+    "stateCode":"NJ",
+    "slided":10269,
+    "number":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.7311156,40.1430058 ]
+    },
+    "properties": {
+    "FIELD1":352,
+    "month":"20-08",
+    "stateCode":"NJ",
+    "slided":10815,
+    "number":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.7311156,40.1430058 ]
+    },
+    "properties": {
+    "FIELD1":353,
+    "month":"20-09",
+    "stateCode":"NJ",
+    "slided":13426,
+    "number":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.7311156,40.1430058 ]
+    },
+    "properties": {
+    "FIELD1":354,
+    "month":"20-10",
+    "stateCode":"NJ",
+    "slided":32346,
+    "number":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.7311156,40.1430058 ]
+    },
+    "properties": {
+    "FIELD1":355,
+    "month":"20-11",
+    "stateCode":"NJ",
+    "slided":99742,
+    "number":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.7311156,40.1430058 ]
+    },
+    "properties": {
+    "FIELD1":356,
+    "month":"20-12",
+    "stateCode":"NJ",
+    "slided":139596,
+    "number":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.7311156,40.1430058 ]
+    },
+    "properties": {
+    "FIELD1":357,
+    "month":"21-01",
+    "stateCode":"NJ",
+    "slided":163170,
+    "number":13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.0260685,34.1662325 ]
+    },
+    "properties": {
+    "FIELD1":358,
+    "month":"20-03",
+    "stateCode":"NM",
+    "slided":323,
+    "number":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.0260685,34.1662325 ]
+    },
+    "properties": {
+    "FIELD1":359,
+    "month":"20-04",
+    "stateCode":"NM",
+    "slided":3130,
+    "number":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.0260685,34.1662325 ]
+    },
+    "properties": {
+    "FIELD1":360,
+    "month":"20-05",
+    "stateCode":"NM",
+    "slided":4181,
+    "number":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.0260685,34.1662325 ]
+    },
+    "properties": {
+    "FIELD1":361,
+    "month":"20-06",
+    "stateCode":"NM",
+    "slided":3822,
+    "number":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.0260685,34.1662325 ]
+    },
+    "properties": {
+    "FIELD1":362,
+    "month":"20-07",
+    "stateCode":"NM",
+    "slided":8070,
+    "number":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.0260685,34.1662325 ]
+    },
+    "properties": {
+    "FIELD1":363,
+    "month":"20-08",
+    "stateCode":"NM",
+    "slided":4859,
+    "number":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.0260685,34.1662325 ]
+    },
+    "properties": {
+    "FIELD1":364,
+    "month":"20-09",
+    "stateCode":"NM",
+    "slided":4059,
+    "number":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.0260685,34.1662325 ]
+    },
+    "properties": {
+    "FIELD1":365,
+    "month":"20-10",
+    "stateCode":"NM",
+    "slided":16685,
+    "number":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.0260685,34.1662325 ]
+    },
+    "properties": {
+    "FIELD1":366,
+    "month":"20-11",
+    "stateCode":"NM",
+    "slided":49749,
+    "number":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.0260685,34.1662325 ]
+    },
+    "properties": {
+    "FIELD1":367,
+    "month":"20-12",
+    "stateCode":"NM",
+    "slided":44762,
+    "number":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.0260685,34.1662325 ]
+    },
+    "properties": {
+    "FIELD1":368,
+    "month":"21-01",
+    "stateCode":"NM",
+    "slided":23024,
+    "number":13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.0230604,38.502032 ]
+    },
+    "properties": {
+    "FIELD1":369,
+    "month":"20-03",
+    "stateCode":"NV",
+    "slided":1014,
+    "number":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.0230604,38.502032 ]
+    },
+    "properties": {
+    "FIELD1":370,
+    "month":"20-04",
+    "stateCode":"NV",
+    "slided":4077,
+    "number":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.0230604,38.502032 ]
+    },
+    "properties": {
+    "FIELD1":371,
+    "month":"20-05",
+    "stateCode":"NV",
+    "slided":3595,
+    "number":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.0230604,38.502032 ]
+    },
+    "properties": {
+    "FIELD1":372,
+    "month":"20-06",
+    "stateCode":"NV",
+    "slided":9789,
+    "number":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.0230604,38.502032 ]
+    },
+    "properties": {
+    "FIELD1":373,
+    "month":"20-07",
+    "stateCode":"NV",
+    "slided":29209,
+    "number":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.0230604,38.502032 ]
+    },
+    "properties": {
+    "FIELD1":374,
+    "month":"20-08",
+    "stateCode":"NV",
+    "slided":20816,
+    "number":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.0230604,38.502032 ]
+    },
+    "properties": {
+    "FIELD1":375,
+    "month":"20-09",
+    "stateCode":"NV",
+    "slided":10779,
+    "number":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.0230604,38.502032 ]
+    },
+    "properties": {
+    "FIELD1":376,
+    "month":"20-10",
+    "stateCode":"NV",
+    "slided":19829,
+    "number":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.0230604,38.502032 ]
+    },
+    "properties": {
+    "FIELD1":377,
+    "month":"20-11",
+    "stateCode":"NV",
+    "slided":51061,
+    "number":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.0230604,38.502032 ]
+    },
+    "properties": {
+    "FIELD1":378,
+    "month":"20-12",
+    "stateCode":"NV",
+    "slided":71462,
+    "number":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.0230604,38.502032 ]
+    },
+    "properties": {
+    "FIELD1":379,
+    "month":"21-01",
+    "stateCode":"NV",
+    "slided":41374,
+    "number":13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.97968,40.7056258 ]
+    },
+    "properties": {
+    "FIELD1":380,
+    "month":"20-03",
+    "stateCode":"NY",
+    "slided":81082,
+    "number":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.97968,40.7056258 ]
+    },
+    "properties": {
+    "FIELD1":381,
+    "month":"20-04",
+    "stateCode":"NY",
+    "slided":226104,
+    "number":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.97968,40.7056258 ]
+    },
+    "properties": {
+    "FIELD1":382,
+    "month":"20-05",
+    "stateCode":"NY",
+    "slided":64943,
+    "number":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.97968,40.7056258 ]
+    },
+    "properties": {
+    "FIELD1":383,
+    "month":"20-06",
+    "stateCode":"NY",
+    "slided":23255,
+    "number":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.97968,40.7056258 ]
+    },
+    "properties": {
+    "FIELD1":384,
+    "month":"20-07",
+    "stateCode":"NY",
+    "slided":21453,
+    "number":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.97968,40.7056258 ]
+    },
+    "properties": {
+    "FIELD1":385,
+    "month":"20-08",
+    "stateCode":"NY",
+    "slided":19662,
+    "number":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.97968,40.7056258 ]
+    },
+    "properties": {
+    "FIELD1":386,
+    "month":"20-09",
+    "stateCode":"NY",
+    "slided":24141,
+    "number":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.97968,40.7056258 ]
+    },
+    "properties": {
+    "FIELD1":387,
+    "month":"20-10",
+    "stateCode":"NY",
+    "slided":48316,
+    "number":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.97968,40.7056258 ]
+    },
+    "properties": {
+    "FIELD1":388,
+    "month":"20-11",
+    "stateCode":"NY",
+    "slided":141990,
+    "number":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.97968,40.7056258 ]
+    },
+    "properties": {
+    "FIELD1":389,
+    "month":"20-12",
+    "stateCode":"NY",
+    "slided":330840,
+    "number":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.97968,40.7056258 ]
+    },
+    "properties": {
+    "FIELD1":390,
+    "month":"21-01",
+    "stateCode":"NY",
+    "slided":301416,
+    "number":13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.6692525,40.1903624 ]
+    },
+    "properties": {
+    "FIELD1":391,
+    "month":"20-03",
+    "stateCode":"OH",
+    "slided":2287,
+    "number":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.6692525,40.1903624 ]
+    },
+    "properties": {
+    "FIELD1":392,
+    "month":"20-04",
+    "stateCode":"OH",
+    "slided":15903,
+    "number":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.6692525,40.1903624 ]
+    },
+    "properties": {
+    "FIELD1":393,
+    "month":"20-05",
+    "stateCode":"OH",
+    "slided":17459,
+    "number":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.6692525,40.1903624 ]
+    },
+    "properties": {
+    "FIELD1":394,
+    "month":"20-06",
+    "stateCode":"OH",
+    "slided":16546,
+    "number":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.6692525,40.1903624 ]
+    },
+    "properties": {
+    "FIELD1":395,
+    "month":"20-07",
+    "stateCode":"OH",
+    "slided":38696,
+    "number":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.6692525,40.1903624 ]
+    },
+    "properties": {
+    "FIELD1":396,
+    "month":"20-08",
+    "stateCode":"OH",
+    "slided":32934,
+    "number":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.6692525,40.1903624 ]
+    },
+    "properties": {
+    "FIELD1":397,
+    "month":"20-09",
+    "stateCode":"OH",
+    "slided":30802,
+    "number":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.6692525,40.1903624 ]
+    },
+    "properties": {
+    "FIELD1":398,
+    "month":"20-10",
+    "stateCode":"OH",
+    "slided":61477,
+    "number":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.6692525,40.1903624 ]
+    },
+    "properties": {
+    "FIELD1":399,
+    "month":"20-11",
+    "stateCode":"OH",
+    "slided":206726,
+    "number":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.6692525,40.1903624 ]
+    },
+    "properties": {
+    "FIELD1":400,
+    "month":"20-12",
+    "stateCode":"OH",
+    "slided":275491,
+    "number":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.6692525,40.1903624 ]
+    },
+    "properties": {
+    "FIELD1":401,
+    "month":"21-01",
+    "stateCode":"OH",
+    "slided":144440,
+    "number":13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.7165585,35.3097654 ]
+    },
+    "properties": {
+    "FIELD1":402,
+    "month":"20-03",
+    "stateCode":"OK",
+    "slided":638,
+    "number":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.7165585,35.3097654 ]
+    },
+    "properties": {
+    "FIELD1":403,
+    "month":"20-04",
+    "stateCode":"OK",
+    "slided":3028,
+    "number":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.7165585,35.3097654 ]
+    },
+    "properties": {
+    "FIELD1":404,
+    "month":"20-05",
+    "stateCode":"OK",
+    "slided":2916,
+    "number":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.7165585,35.3097654 ]
+    },
+    "properties": {
+    "FIELD1":405,
+    "month":"20-06",
+    "stateCode":"OK",
+    "slided":7305,
+    "number":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.7165585,35.3097654 ]
+    },
+    "properties": {
+    "FIELD1":406,
+    "month":"20-07",
+    "stateCode":"OK",
+    "slided":22743,
+    "number":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.7165585,35.3097654 ]
+    },
+    "properties": {
+    "FIELD1":407,
+    "month":"20-08",
+    "stateCode":"OK",
+    "slided":22349,
+    "number":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.7165585,35.3097654 ]
+    },
+    "properties": {
+    "FIELD1":408,
+    "month":"20-09",
+    "stateCode":"OK",
+    "slided":28769,
+    "number":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.7165585,35.3097654 ]
+    },
+    "properties": {
+    "FIELD1":409,
+    "month":"20-10",
+    "stateCode":"OK",
+    "slided":35516,
+    "number":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.7165585,35.3097654 ]
+    },
+    "properties": {
+    "FIELD1":410,
+    "month":"20-11",
+    "stateCode":"OK",
+    "slided":74419,
+    "number":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.7165585,35.3097654 ]
+    },
+    "properties": {
+    "FIELD1":411,
+    "month":"20-12",
+    "stateCode":"OK",
+    "slided":93375,
+    "number":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.7165585,35.3097654 ]
+    },
+    "properties": {
+    "FIELD1":412,
+    "month":"21-01",
+    "stateCode":"OK",
+    "slided":70161,
+    "number":13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.5380993,44.1419049 ]
+    },
+    "properties": {
+    "FIELD1":413,
+    "month":"20-02",
+    "stateCode":"OR",
+    "slided":4,
+    "number":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.5380993,44.1419049 ]
+    },
+    "properties": {
+    "FIELD1":414,
+    "month":"20-03",
+    "stateCode":"OR",
+    "slided":683,
+    "number":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.5380993,44.1419049 ]
+    },
+    "properties": {
+    "FIELD1":415,
+    "month":"20-04",
+    "stateCode":"OR",
+    "slided":1845,
+    "number":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.5380993,44.1419049 ]
+    },
+    "properties": {
+    "FIELD1":416,
+    "month":"20-05",
+    "stateCode":"OR",
+    "slided":1753,
+    "number":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.5380993,44.1419049 ]
+    },
+    "properties": {
+    "FIELD1":417,
+    "month":"20-06",
+    "stateCode":"OR",
+    "slided":4553,
+    "number":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.5380993,44.1419049 ]
+    },
+    "properties": {
+    "FIELD1":418,
+    "month":"20-07",
+    "stateCode":"OR",
+    "slided":9678,
+    "number":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.5380993,44.1419049 ]
+    },
+    "properties": {
+    "FIELD1":419,
+    "month":"20-08",
+    "stateCode":"OR",
+    "slided":8310,
+    "number":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.5380993,44.1419049 ]
+    },
+    "properties": {
+    "FIELD1":420,
+    "month":"20-09",
+    "stateCode":"OR",
+    "slided":6906,
+    "number":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.5380993,44.1419049 ]
+    },
+    "properties": {
+    "FIELD1":421,
+    "month":"20-10",
+    "stateCode":"OR",
+    "slided":11307,
+    "number":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.5380993,44.1419049 ]
+    },
+    "properties": {
+    "FIELD1":422,
+    "month":"20-11",
+    "stateCode":"OR",
+    "slided":30402,
+    "number":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.5380993,44.1419049 ]
+    },
+    "properties": {
+    "FIELD1":423,
+    "month":"20-12",
+    "stateCode":"OR",
+    "slided":38451,
+    "number":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.5380993,44.1419049 ]
+    },
+    "properties": {
+    "FIELD1":424,
+    "month":"21-01",
+    "stateCode":"OR",
+    "slided":21520,
+    "number":13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.6046984,40.9945928 ]
+    },
+    "properties": {
+    "FIELD1":425,
+    "month":"20-03",
+    "stateCode":"PA",
+    "slided":5328,
+    "number":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.6046984,40.9945928 ]
+    },
+    "properties": {
+    "FIELD1":426,
+    "month":"20-04",
+    "stateCode":"PA",
+    "slided":42468,
+    "number":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.6046984,40.9945928 ]
+    },
+    "properties": {
+    "FIELD1":427,
+    "month":"20-05",
+    "stateCode":"PA",
+    "slided":28397,
+    "number":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.6046984,40.9945928 ]
+    },
+    "properties": {
+    "FIELD1":428,
+    "month":"20-06",
+    "stateCode":"PA",
+    "slided":15184,
+    "number":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.6046984,40.9945928 ]
+    },
+    "properties": {
+    "FIELD1":429,
+    "month":"20-07",
+    "stateCode":"PA",
+    "slided":25366,
+    "number":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.6046984,40.9945928 ]
+    },
+    "properties": {
+    "FIELD1":430,
+    "month":"20-08",
+    "stateCode":"PA",
+    "slided":22455,
+    "number":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.6046984,40.9945928 ]
+    },
+    "properties": {
+    "FIELD1":431,
+    "month":"20-09",
+    "stateCode":"PA",
+    "slided":24933,
+    "number":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.6046984,40.9945928 ]
+    },
+    "properties": {
+    "FIELD1":432,
+    "month":"20-10",
+    "stateCode":"PA",
+    "slided":48894,
+    "number":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.6046984,40.9945928 ]
+    },
+    "properties": {
+    "FIELD1":433,
+    "month":"20-11",
+    "stateCode":"PA",
+    "slided":155695,
+    "number":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.6046984,40.9945928 ]
+    },
+    "properties": {
+    "FIELD1":434,
+    "month":"20-12",
+    "stateCode":"PA",
+    "slided":276293,
+    "number":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.6046984,40.9945928 ]
+    },
+    "properties": {
+    "FIELD1":435,
+    "month":"21-01",
+    "stateCode":"PA",
+    "slided":143998,
+    "number":13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.5064508,41.5827282 ]
+    },
+    "properties": {
+    "FIELD1":436,
+    "month":"20-03",
+    "stateCode":"RI",
+    "slided":379,
+    "number":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.5064508,41.5827282 ]
+    },
+    "properties": {
+    "FIELD1":437,
+    "month":"20-04",
+    "stateCode":"RI",
+    "slided":7189,
+    "number":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.5064508,41.5827282 ]
+    },
+    "properties": {
+    "FIELD1":438,
+    "month":"20-05",
+    "stateCode":"RI",
+    "slided":5592,
+    "number":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.5064508,41.5827282 ]
+    },
+    "properties": {
+    "FIELD1":439,
+    "month":"20-06",
+    "stateCode":"RI",
+    "slided":2136,
+    "number":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.5064508,41.5827282 ]
+    },
+    "properties": {
+    "FIELD1":440,
+    "month":"20-07",
+    "stateCode":"RI",
+    "slided":1969,
+    "number":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.5064508,41.5827282 ]
+    },
+    "properties": {
+    "FIELD1":441,
+    "month":"20-08",
+    "stateCode":"RI",
+    "slided":2813,
+    "number":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.5064508,41.5827282 ]
+    },
+    "properties": {
+    "FIELD1":442,
+    "month":"20-09",
+    "stateCode":"RI",
+    "slided":2452,
+    "number":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.5064508,41.5827282 ]
+    },
+    "properties": {
+    "FIELD1":443,
+    "month":"20-10",
+    "stateCode":"RI",
+    "slided":6046,
+    "number":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.5064508,41.5827282 ]
+    },
+    "properties": {
+    "FIELD1":444,
+    "month":"20-11",
+    "stateCode":"RI",
+    "slided":19062,
+    "number":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.5064508,41.5827282 ]
+    },
+    "properties": {
+    "FIELD1":445,
+    "month":"20-12",
+    "stateCode":"RI",
+    "slided":29477,
+    "number":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.5064508,41.5827282 ]
+    },
+    "properties": {
+    "FIELD1":446,
+    "month":"21-01",
+    "stateCode":"RI",
+    "slided":18874,
+    "number":13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.9470381,33.62505 ]
+    },
+    "properties": {
+    "FIELD1":447,
+    "month":"20-03",
+    "stateCode":"SC",
+    "slided":1159,
+    "number":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.9470381,33.62505 ]
+    },
+    "properties": {
+    "FIELD1":448,
+    "month":"20-04",
+    "stateCode":"SC",
+    "slided":5005,
+    "number":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.9470381,33.62505 ]
+    },
+    "properties": {
+    "FIELD1":449,
+    "month":"20-05",
+    "stateCode":"SC",
+    "slided":5716,
+    "number":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.9470381,33.62505 ]
+    },
+    "properties": {
+    "FIELD1":450,
+    "month":"20-06",
+    "stateCode":"SC",
+    "slided":24812,
+    "number":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.9470381,33.62505 ]
+    },
+    "properties": {
+    "FIELD1":451,
+    "month":"20-07",
+    "stateCode":"SC",
+    "slided":52399,
+    "number":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.9470381,33.62505 ]
+    },
+    "properties": {
+    "FIELD1":452,
+    "month":"20-08",
+    "stateCode":"SC",
+    "slided":30202,
+    "number":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.9470381,33.62505 ]
+    },
+    "properties": {
+    "FIELD1":453,
+    "month":"20-09",
+    "stateCode":"SC",
+    "slided":29247,
+    "number":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.9470381,33.62505 ]
+    },
+    "properties": {
+    "FIELD1":454,
+    "month":"20-10",
+    "stateCode":"SC",
+    "slided":28764,
+    "number":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.9470381,33.62505 ]
+    },
+    "properties": {
+    "FIELD1":455,
+    "month":"20-11",
+    "stateCode":"SC",
+    "slided":41080,
+    "number":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.9470381,33.62505 ]
+    },
+    "properties": {
+    "FIELD1":456,
+    "month":"20-12",
+    "stateCode":"SC",
+    "slided":89581,
+    "number":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.9470381,33.62505 ]
+    },
+    "properties": {
+    "FIELD1":457,
+    "month":"21-01",
+    "stateCode":"SC",
+    "slided":92741,
+    "number":13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.2471641,44.2126995 ]
+    },
+    "properties": {
+    "FIELD1":458,
+    "month":"20-03",
+    "stateCode":"SD",
+    "slided":122,
+    "number":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.2471641,44.2126995 ]
+    },
+    "properties": {
+    "FIELD1":459,
+    "month":"20-04",
+    "stateCode":"SD",
+    "slided":2336,
+    "number":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.2471641,44.2126995 ]
+    },
+    "properties": {
+    "FIELD1":460,
+    "month":"20-05",
+    "stateCode":"SD",
+    "slided":2547,
+    "number":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.2471641,44.2126995 ]
+    },
+    "properties": {
+    "FIELD1":461,
+    "month":"20-06",
+    "stateCode":"SD",
+    "slided":1838,
+    "number":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.2471641,44.2126995 ]
+    },
+    "properties": {
+    "FIELD1":462,
+    "month":"20-07",
+    "stateCode":"SD",
+    "slided":2010,
+    "number":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.2471641,44.2126995 ]
+    },
+    "properties": {
+    "FIELD1":463,
+    "month":"20-08",
+    "stateCode":"SD",
+    "slided":4744,
+    "number":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.2471641,44.2126995 ]
+    },
+    "properties": {
+    "FIELD1":464,
+    "month":"20-09",
+    "stateCode":"SD",
+    "slided":9171,
+    "number":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.2471641,44.2126995 ]
+    },
+    "properties": {
+    "FIELD1":465,
+    "month":"20-10",
+    "stateCode":"SD",
+    "slided":23057,
+    "number":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.2471641,44.2126995 ]
+    },
+    "properties": {
+    "FIELD1":466,
+    "month":"20-11",
+    "stateCode":"SD",
+    "slided":34966,
+    "number":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.2471641,44.2126995 ]
+    },
+    "properties": {
+    "FIELD1":467,
+    "month":"20-12",
+    "stateCode":"SD",
+    "slided":18451,
+    "number":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.2471641,44.2126995 ]
+    },
+    "properties": {
+    "FIELD1":468,
+    "month":"21-01",
+    "stateCode":"SD",
+    "slided":7063,
+    "number":13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.9785989,35.830521 ]
+    },
+    "properties": {
+    "FIELD1":469,
+    "month":"20-03",
+    "stateCode":"TN",
+    "slided":1998,
+    "number":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.9785989,35.830521 ]
+    },
+    "properties": {
+    "FIELD1":470,
+    "month":"20-04",
+    "stateCode":"TN",
+    "slided":9404,
+    "number":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.9785989,35.830521 ]
+    },
+    "properties": {
+    "FIELD1":471,
+    "month":"20-05",
+    "stateCode":"TN",
+    "slided":11616,
+    "number":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.9785989,35.830521 ]
+    },
+    "properties": {
+    "FIELD1":472,
+    "month":"20-06",
+    "stateCode":"TN",
+    "slided":20343,
+    "number":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.9785989,35.830521 ]
+    },
+    "properties": {
+    "FIELD1":473,
+    "month":"20-07",
+    "stateCode":"TN",
+    "slided":57167,
+    "number":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.9785989,35.830521 ]
+    },
+    "properties": {
+    "FIELD1":474,
+    "month":"20-08",
+    "stateCode":"TN",
+    "slided":49129,
+    "number":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.9785989,35.830521 ]
+    },
+    "properties": {
+    "FIELD1":475,
+    "month":"20-09",
+    "stateCode":"TN",
+    "slided":41852,
+    "number":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.9785989,35.830521 ]
+    },
+    "properties": {
+    "FIELD1":476,
+    "month":"20-10",
+    "stateCode":"TN",
+    "slided":63916,
+    "number":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.9785989,35.830521 ]
+    },
+    "properties": {
+    "FIELD1":477,
+    "month":"20-11",
+    "stateCode":"TN",
+    "slided":106599,
+    "number":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.9785989,35.830521 ]
+    },
+    "properties": {
+    "FIELD1":478,
+    "month":"20-12",
+    "stateCode":"TN",
+    "slided":195007,
+    "number":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.9785989,35.830521 ]
+    },
+    "properties": {
+    "FIELD1":479,
+    "month":"21-01",
+    "stateCode":"TN",
+    "slided":99903,
+    "number":13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.0768425,31.1693363 ]
+    },
+    "properties": {
+    "FIELD1":480,
+    "month":"20-03",
+    "stateCode":"TX",
+    "slided":3923,
+    "number":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.0768425,31.1693363 ]
+    },
+    "properties": {
+    "FIELD1":481,
+    "month":"20-04",
+    "stateCode":"TX",
+    "slided":24837,
+    "number":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.0768425,31.1693363 ]
+    },
+    "properties": {
+    "FIELD1":482,
+    "month":"20-05",
+    "stateCode":"TX",
+    "slided":36196,
+    "number":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.0768425,31.1693363 ]
+    },
+    "properties": {
+    "FIELD1":483,
+    "month":"20-06",
+    "stateCode":"TX",
+    "slided":100930,
+    "number":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.0768425,31.1693363 ]
+    },
+    "properties": {
+    "FIELD1":484,
+    "month":"20-07",
+    "stateCode":"TX",
+    "slided":271060,
+    "number":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.0768425,31.1693363 ]
+    },
+    "properties": {
+    "FIELD1":485,
+    "month":"20-08",
+    "stateCode":"TX",
+    "slided":200110,
+    "number":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.0768425,31.1693363 ]
+    },
+    "properties": {
+    "FIELD1":486,
+    "month":"20-09",
+    "stateCode":"TX",
+    "slided":144824,
+    "number":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.0768425,31.1693363 ]
+    },
+    "properties": {
+    "FIELD1":487,
+    "month":"20-10",
+    "stateCode":"TX",
+    "slided":159981,
+    "number":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.0768425,31.1693363 ]
+    },
+    "properties": {
+    "FIELD1":488,
+    "month":"20-11",
+    "stateCode":"TX",
+    "slided":311658,
+    "number":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.0768425,31.1693363 ]
+    },
+    "properties": {
+    "FIELD1":489,
+    "month":"20-12",
+    "stateCode":"TX",
+    "slided":522552,
+    "number":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.0768425,31.1693363 ]
+    },
+    "properties": {
+    "FIELD1":490,
+    "month":"21-01",
+    "stateCode":"TX",
+    "slided":426517,
+    "number":13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.547028,39.4997605 ]
+    },
+    "properties": {
+    "FIELD1":491,
+    "month":"20-03",
+    "stateCode":"UT",
+    "slided":895,
+    "number":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.547028,39.4997605 ]
+    },
+    "properties": {
+    "FIELD1":492,
+    "month":"20-04",
+    "stateCode":"UT",
+    "slided":3765,
+    "number":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.547028,39.4997605 ]
+    },
+    "properties": {
+    "FIELD1":493,
+    "month":"20-05",
+    "stateCode":"UT",
+    "slided":4405,
+    "number":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.547028,39.4997605 ]
+    },
+    "properties": {
+    "FIELD1":494,
+    "month":"20-06",
+    "stateCode":"UT",
+    "slided":9264,
+    "number":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.547028,39.4997605 ]
+    },
+    "properties": {
+    "FIELD1":495,
+    "month":"20-07",
+    "stateCode":"UT",
+    "slided":14005,
+    "number":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.547028,39.4997605 ]
+    },
+    "properties": {
+    "FIELD1":496,
+    "month":"20-08",
+    "stateCode":"UT",
+    "slided":9743,
+    "number":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.547028,39.4997605 ]
+    },
+    "properties": {
+    "FIELD1":497,
+    "month":"20-09",
+    "stateCode":"UT",
+    "slided":18200,
+    "number":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.547028,39.4997605 ]
+    },
+    "properties": {
+    "FIELD1":498,
+    "month":"20-10",
+    "stateCode":"UT",
+    "slided":32939,
+    "number":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.547028,39.4997605 ]
+    },
+    "properties": {
+    "FIELD1":499,
+    "month":"20-11",
+    "stateCode":"UT",
+    "slided":62340,
+    "number":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.547028,39.4997605 ]
+    },
+    "properties": {
+    "FIELD1":500,
+    "month":"20-12",
+    "stateCode":"UT",
+    "slided":55798,
+    "number":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.547028,39.4997605 ]
+    },
+    "properties": {
+    "FIELD1":501,
+    "month":"21-01",
+    "stateCode":"UT",
+    "slided":38562,
+    "number":13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.4587861,38.0033855 ]
+    },
+    "properties": {
+    "FIELD1":502,
+    "month":"20-03",
+    "stateCode":"VA",
+    "slided":1331,
+    "number":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.4587861,38.0033855 ]
+    },
+    "properties": {
+    "FIELD1":503,
+    "month":"20-04",
+    "stateCode":"VA",
+    "slided":14586,
+    "number":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.4587861,38.0033855 ]
+    },
+    "properties": {
+    "FIELD1":504,
+    "month":"20-05",
+    "stateCode":"VA",
+    "slided":28160,
+    "number":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.4587861,38.0033855 ]
+    },
+    "properties": {
+    "FIELD1":505,
+    "month":"20-06",
+    "stateCode":"VA",
+    "slided":18103,
+    "number":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.4587861,38.0033855 ]
+    },
+    "properties": {
+    "FIELD1":506,
+    "month":"20-07",
+    "stateCode":"VA",
+    "slided":25124,
+    "number":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.4587861,38.0033855 ]
+    },
+    "properties": {
+    "FIELD1":507,
+    "month":"20-08",
+    "stateCode":"VA",
+    "slided":29581,
+    "number":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.4587861,38.0033855 ]
+    },
+    "properties": {
+    "FIELD1":508,
+    "month":"20-09",
+    "stateCode":"VA",
+    "slided":27069,
+    "number":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.4587861,38.0033855 ]
+    },
+    "properties": {
+    "FIELD1":509,
+    "month":"20-10",
+    "stateCode":"VA",
+    "slided":32387,
+    "number":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.4587861,38.0033855 ]
+    },
+    "properties": {
+    "FIELD1":510,
+    "month":"20-11",
+    "stateCode":"VA",
+    "slided":55991,
+    "number":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.4587861,38.0033855 ]
+    },
+    "properties": {
+    "FIELD1":511,
+    "month":"20-12",
+    "stateCode":"VA",
+    "slided":109796,
+    "number":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.4587861,38.0033855 ]
+    },
+    "properties": {
+    "FIELD1":512,
+    "month":"21-01",
+    "stateCode":"VA",
+    "slided":104660,
+    "number":13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.4477828,43.8717545 ]
+    },
+    "properties": {
+    "FIELD1":513,
+    "month":"20-03",
+    "stateCode":"VT",
+    "slided":283,
+    "number":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.4477828,43.8717545 ]
+    },
+    "properties": {
+    "FIELD1":514,
+    "month":"20-04",
+    "stateCode":"VT",
+    "slided":627,
+    "number":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.4477828,43.8717545 ]
+    },
+    "properties": {
+    "FIELD1":515,
+    "month":"20-05",
+    "stateCode":"VT",
+    "slided":113,
+    "number":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.4477828,43.8717545 ]
+    },
+    "properties": {
+    "FIELD1":516,
+    "month":"20-06",
+    "stateCode":"VT",
+    "slided":235,
+    "number":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.4477828,43.8717545 ]
+    },
+    "properties": {
+    "FIELD1":517,
+    "month":"20-07",
+    "stateCode":"VT",
+    "slided":205,
+    "number":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.4477828,43.8717545 ]
+    },
+    "properties": {
+    "FIELD1":518,
+    "month":"20-08",
+    "stateCode":"VT",
+    "slided":212,
+    "number":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.4477828,43.8717545 ]
+    },
+    "properties": {
+    "FIELD1":519,
+    "month":"20-09",
+    "stateCode":"VT",
+    "slided":144,
+    "number":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.4477828,43.8717545 ]
+    },
+    "properties": {
+    "FIELD1":520,
+    "month":"20-10",
+    "stateCode":"VT",
+    "slided":424,
+    "number":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.4477828,43.8717545 ]
+    },
+    "properties": {
+    "FIELD1":521,
+    "month":"20-11",
+    "stateCode":"VT",
+    "slided":2063,
+    "number":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.4477828,43.8717545 ]
+    },
+    "properties": {
+    "FIELD1":522,
+    "month":"20-12",
+    "stateCode":"VT",
+    "slided":3177,
+    "number":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.4477828,43.8717545 ]
+    },
+    "properties": {
+    "FIELD1":523,
+    "month":"21-01",
+    "stateCode":"VT",
+    "slided":3068,
+    "number":13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.0145665,38.8993487 ]
+    },
+    "properties": {
+    "FIELD1":524,
+    "month":"20-01",
+    "stateCode":"WA",
+    "slided":4,
+    "number":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.0145665,38.8993487 ]
+    },
+    "properties": {
+    "FIELD1":525,
+    "month":"20-02",
+    "stateCode":"WA",
+    "slided":5,
+    "number":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.0145665,38.8993487 ]
+    },
+    "properties": {
+    "FIELD1":526,
+    "month":"20-03",
+    "stateCode":"WA",
+    "slided":5134,
+    "number":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.0145665,38.8993487 ]
+    },
+    "properties": {
+    "FIELD1":527,
+    "month":"20-04",
+    "stateCode":"WA",
+    "slided":9266,
+    "number":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.0145665,38.8993487 ]
+    },
+    "properties": {
+    "FIELD1":528,
+    "month":"20-05",
+    "stateCode":"WA",
+    "slided":7255,
+    "number":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.0145665,38.8993487 ]
+    },
+    "properties": {
+    "FIELD1":529,
+    "month":"20-06",
+    "stateCode":"WA",
+    "slided":11239,
+    "number":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.0145665,38.8993487 ]
+    },
+    "properties": {
+    "FIELD1":530,
+    "month":"20-07",
+    "stateCode":"WA",
+    "slided":23218,
+    "number":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.0145665,38.8993487 ]
+    },
+    "properties": {
+    "FIELD1":531,
+    "month":"20-08",
+    "stateCode":"WA",
+    "slided":17756,
+    "number":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.0145665,38.8993487 ]
+    },
+    "properties": {
+    "FIELD1":532,
+    "month":"20-09",
+    "stateCode":"WA",
+    "slided":12900,
+    "number":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.0145665,38.8993487 ]
+    },
+    "properties": {
+    "FIELD1":533,
+    "month":"20-10",
+    "stateCode":"WA",
+    "slided":19364,
+    "number":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.0145665,38.8993487 ]
+    },
+    "properties": {
+    "FIELD1":534,
+    "month":"20-11",
+    "stateCode":"WA",
+    "slided":56647,
+    "number":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.0145665,38.8993487 ]
+    },
+    "properties": {
+    "FIELD1":535,
+    "month":"20-12",
+    "stateCode":"WA",
+    "slided":78013,
+    "number":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.0145665,38.8993487 ]
+    },
+    "properties": {
+    "FIELD1":536,
+    "month":"21-01",
+    "stateCode":"WA",
+    "slided":48228,
+    "number":13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.8267049,44.7862968 ]
+    },
+    "properties": {
+    "FIELD1":537,
+    "month":"20-03",
+    "stateCode":"WI",
+    "slided":1459,
+    "number":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.8267049,44.7862968 ]
+    },
+    "properties": {
+    "FIELD1":538,
+    "month":"20-04",
+    "stateCode":"WI",
+    "slided":5531,
+    "number":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.8267049,44.7862968 ]
+    },
+    "properties": {
+    "FIELD1":539,
+    "month":"20-05",
+    "stateCode":"WI",
+    "slided":11379,
+    "number":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.8267049,44.7862968 ]
+    },
+    "properties": {
+    "FIELD1":540,
+    "month":"20-06",
+    "stateCode":"WI",
+    "slided":10447,
+    "number":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.8267049,44.7862968 ]
+    },
+    "properties": {
+    "FIELD1":541,
+    "month":"20-07",
+    "stateCode":"WI",
+    "slided":24254,
+    "number":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.8267049,44.7862968 ]
+    },
+    "properties": {
+    "FIELD1":542,
+    "month":"20-08",
+    "stateCode":"WI",
+    "slided":23015,
+    "number":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.8267049,44.7862968 ]
+    },
+    "properties": {
+    "FIELD1":543,
+    "month":"20-09",
+    "stateCode":"WI",
+    "slided":46919,
+    "number":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.8267049,44.7862968 ]
+    },
+    "properties": {
+    "FIELD1":544,
+    "month":"20-10",
+    "stateCode":"WI",
+    "slided":101476,
+    "number":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.8267049,44.7862968 ]
+    },
+    "properties": {
+    "FIELD1":545,
+    "month":"20-11",
+    "stateCode":"WI",
+    "slided":188489,
+    "number":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.8267049,44.7862968 ]
+    },
+    "properties": {
+    "FIELD1":546,
+    "month":"20-12",
+    "stateCode":"WI",
+    "slided":106179,
+    "number":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.8267049,44.7862968 ]
+    },
+    "properties": {
+    "FIELD1":547,
+    "month":"21-01",
+    "stateCode":"WI",
+    "slided":54315,
+    "number":13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.1816905,38.9201705 ]
+    },
+    "properties": {
+    "FIELD1":548,
+    "month":"20-03",
+    "stateCode":"WV",
+    "slided":168,
+    "number":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.1816905,38.9201705 ]
+    },
+    "properties": {
+    "FIELD1":549,
+    "month":"20-04",
+    "stateCode":"WV",
+    "slided":1003,
+    "number":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.1816905,38.9201705 ]
+    },
+    "properties": {
+    "FIELD1":550,
+    "month":"20-05",
+    "stateCode":"WV",
+    "slided":925,
+    "number":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.1816905,38.9201705 ]
+    },
+    "properties": {
+    "FIELD1":551,
+    "month":"20-06",
+    "stateCode":"WV",
+    "slided":981,
+    "number":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.1816905,38.9201705 ]
+    },
+    "properties": {
+    "FIELD1":552,
+    "month":"20-07",
+    "stateCode":"WV",
+    "slided":3676,
+    "number":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.1816905,38.9201705 ]
+    },
+    "properties": {
+    "FIELD1":553,
+    "month":"20-08",
+    "stateCode":"WV",
+    "slided":3815,
+    "number":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.1816905,38.9201705 ]
+    },
+    "properties": {
+    "FIELD1":554,
+    "month":"20-09",
+    "stateCode":"WV",
+    "slided":5602,
+    "number":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.1816905,38.9201705 ]
+    },
+    "properties": {
+    "FIELD1":555,
+    "month":"20-10",
+    "stateCode":"WV",
+    "slided":8505,
+    "number":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.1816905,38.9201705 ]
+    },
+    "properties": {
+    "FIELD1":556,
+    "month":"20-11",
+    "stateCode":"WV",
+    "slided":23988,
+    "number":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.1816905,38.9201705 ]
+    },
+    "properties": {
+    "FIELD1":557,
+    "month":"20-12",
+    "stateCode":"WV",
+    "slided":38091,
+    "number":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.1816905,38.9201705 ]
+    },
+    "properties": {
+    "FIELD1":558,
+    "month":"21-01",
+    "stateCode":"WV",
+    "slided":25948,
+    "number":13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.5545669,43.000325 ]
+    },
+    "properties": {
+    "FIELD1":559,
+    "month":"20-03",
+    "stateCode":"WY",
+    "slided":111,
+    "number":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.5545669,43.000325 ]
+    },
+    "properties": {
+    "FIELD1":560,
+    "month":"20-04",
+    "stateCode":"WY",
+    "slided":445,
+    "number":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.5545669,43.000325 ]
+    },
+    "properties": {
+    "FIELD1":561,
+    "month":"20-05",
+    "stateCode":"WY",
+    "slided":351,
+    "number":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.5545669,43.000325 ]
+    },
+    "properties": {
+    "FIELD1":562,
+    "month":"20-06",
+    "stateCode":"WY",
+    "slided":593,
+    "number":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.5545669,43.000325 ]
+    },
+    "properties": {
+    "FIELD1":563,
+    "month":"20-07",
+    "stateCode":"WY",
+    "slided":1248,
+    "number":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.5545669,43.000325 ]
+    },
+    "properties": {
+    "FIELD1":564,
+    "month":"20-08",
+    "stateCode":"WY",
+    "slided":1166,
+    "number":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.5545669,43.000325 ]
+    },
+    "properties": {
+    "FIELD1":565,
+    "month":"20-09",
+    "stateCode":"WY",
+    "slided":2195,
+    "number":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.5545669,43.000325 ]
+    },
+    "properties": {
+    "FIELD1":566,
+    "month":"20-10",
+    "stateCode":"WY",
+    "slided":7389,
+    "number":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.5545669,43.000325 ]
+    },
+    "properties": {
+    "FIELD1":567,
+    "month":"20-11",
+    "stateCode":"WY",
+    "slided":19955,
+    "number":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.5545669,43.000325 ]
+    },
+    "properties": {
+    "FIELD1":568,
+    "month":"20-12",
+    "stateCode":"WY",
+    "slided":11062,
+    "number":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.5545669,43.000325 ]
+    },
+    "properties": {
+    "FIELD1":569,
+    "month":"21-01",
+    "stateCode":"WY",
+    "slided":5867,
+    "number":13
+    }
+  }
+]
+}

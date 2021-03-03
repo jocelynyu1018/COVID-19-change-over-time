@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8' />
+    <title>COVID-19 Daily Confirmed Cases</title>
+    <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+    <script src='https://api.mapbox.com/mapbox-gl-js/v2.1.1/mapbox-gl.js'></script>
+    <link href='https://api.mapbox.com/mapbox-gl-js/v2.1.1/mapbox-gl.css' rel='stylesheet' />
+
+    <style>
+        body {
+        margin: 0;
+        padding: 0;
+        font-family: 'Helvetica Neue', Helvetica, Arial, Sans-serif;
+        font-size: 10px
+        }
+
+        #map {
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        width: 100%;
+        }
+
+        h1 {
+        font-size: 20px;
+        line-height: 30px;
+        }
+
+        h2 {
+        font-size: 14px;
+        line-height: 20px;
+        margin-bottom: 10px;
+        }
+
+        a {
+        text-decoration: none;
+        color: #2dc4b2;
+        }
+
+        #console {
+        position: absolute;
+        width: 240px;
+        margin: 10px;
+        padding: 10px 20px;
+        background-color: white;
+        }
+
+        .session {
+        margin-bottom: 20px;
+        }
+
+        .row {
+        height: 12px;
+        width: 100%;
+        }
+
+        .colors {
+        background: linear-gradient(to right, #2dc4b2, #3bb3c3, #669ec4, #8b88b6, #a2719b, #aa5e79);
+        margin-bottom: 5px;
+        }
+
+        .label {
+        width: 15%;
+        display: inline-block;
+        text-align: center;
+        }
+    </style>
+</head>
+
+<body>
+    <div id='map'></div>
+    <div id='console'>
+        <h1>Daily Confirmed Cases</h1>
+        <p>Data: <a href='https://www.unacast.com/covid19'>COVID-19 Location Data Toolkit</a> </p>
+        <div class='session'>
+            <h2>New Cases</h2>
+            <div class='row colors'>
+            </div>
+            <div class='row labels'>
+              <div class='label'>0</div>
+              <div class='label'>1000</div>
+              <div class='label'>5000</div>
+              <div class='label'>10000</div>
+              <div class='label'>20000</div>
+              <div class='label'>30000+</div>
+            </div>
+        </div>
+
+        <div class='session' id='sliderbar'>
+            <h2>Month: <label id='active-hour'>August 2020</label></h2>
+            <input id='slider' class='row' type='range' min='0' max='12' step='1' value='5' />
+          </div>
+
+    </div>
+
+    <script>
+        
+       mapboxgl.accessToken = 'pk.eyJ1IjoiaGVsZW5jaHUwMTA2IiwiYSI6ImNra2VwMjRvODBlc2Myd281NXRicGQxb3gifQ.nkQXH5COlp9pYe72ctxShQ';
+
+        var map = new mapboxgl.Map({
+        container: 'map', // container element id
+        style: 'mapbox://styles/mapbox/light-v10',
+        center: [-94.0059, 40.7128], // initial map center in [lon, lat]
+        zoom: 3
+        }); 
+
+        map.on('load', function() {
+        map.addLayer({
+            id: 'cases',
+            type: 'circle',
+            source: {
+            type: 'geojson',
+            data: './sumByMonth.geojson' // replace this with the url of your own geojson
+            },
+            paint: {
+            'circle-radius': [
+                'interpolate',
+                ['linear'],
+                ['number', ['get', 'slided']],
+                0, 10,
+                40000, 40
+            ],
+            'circle-color': [
+                'interpolate',
+                ['linear'],
+                ['number', ['get', 'slided']],
+                0, '#2DC4B2',
+                1000, '#3BB3C3',
+                5000, '#669EC4',
+                10000, '#8B88B6',
+                20000, '#A2719B',
+                30000, '#AA5E79'
+            ],
+            'circle-opacity': 0.8
+            },
+            filter: ['==', ['number', ['get', 'number']], 5]
+        });
+
+        document.getElementById('slider').addEventListener('input', function(e) {
+        var month = parseInt(e.target.value);
+        // update the map
+        map.setFilter('cases', ['==', ['number', ['get', 'number']], month]);
+
+        // converting 0-23 hour to AMPM format
+        var months = [ "January 2020", "February 2020", "March 2020", "April 2020", "May 2020", "June 2020", 
+           "July 2020", "August 2020", "September 2020", "October 2020", "November 2020", "December 2020", "January 2021"];
+
+        var selectedMonthName = months[month];
+
+        // update text in the UI
+        document.getElementById('active-hour').innerText = selectedMonthName;
+        });
+
+        });
+
+    </script>
+</body>
+</html>
